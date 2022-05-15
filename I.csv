@@ -1,0 +1,1017 @@
+Diploma,Opleiding,Jaar,Semester,Cursuscode,Studiepunten,Lesgevers,Trefwoorden,Evaluatiemomenten,Evaluatievormen PGE1,Evaluatievormen PGE2,Evaluatievormen NPGE
+
+BACH,IB6BIW,1,1,E610014,6,Kurt Stockman|Ria Callens|Wesley Cottegnie|Isabel Sweertvaegher,elektrotechniek|elektrostatica|magnetisme|wisselstroomsystemen|elektrische netwerken.,periodegebonden|niet-periodegebonden,mondeling examen,mondeling examen,participatie|verslag
+
+BACH,IB6BIW,1,1,E610019,3,Geert De Clercq,materiaalkunde|structuur van materialen|materiaaleigenschappen|materiaaltechnologie|materiaalselectie,periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,
+
+BACH,IB6BIW,1,1,I610003,6,Jan De Smet|Christophe Wille,prokaryoten|eukaryoten|bacteriën|metabolisme|genetica|microbiologie.,periodegebonden|niet-periodegebonden,schriftelijk examen|mondeling examen,schriftelijk examen|mondeling examen,participatie|gedragsevaluatie op de werkvloer|verslag
+
+BACH,IB6BIW,1,1,I610008,6,Jan De Smet|Christophe Wille,scheidingstechnieken|ph|redox|buffers|stoichiometrie|oplossingen|oplosbaarheid.,periodegebonden|niet-periodegebonden,schriftelijk examen|mondeling examen,schriftelijk examen|mondeling examen,schriftelijk examen|gedragsevaluatie op de werkvloer|verslag
+
+BACH,IB6BIW,1,1,I610018,6,Jan Baetens,verzamelingen|vectoren|functies|continuïteit en limieten|afleiden|integreren|taylor-reeksen|functies van één veranderlijke|functies van meerdere veranderlijken|meervoudige integratie|mathematica|python,periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,
+
+BACH,IB6BIW,1,2,E610016,6,Michael Monte|Ria Callens,fluïdostatica|warmteleer|trillingen en golven|geometrische en fysische optica,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,participatie|werkstuk
+
+BACH,IB6BIW,1,2,E610055,3,Sam Lemey|Brecht Willems,elektronica,periodegebonden|niet-periodegebonden,schriftelijk examen,schriftelijk examen,schriftelijk examen|verslag
+
+BACH,IB6BIW,1,2,I610014,3,Ann Dumoulin|Caroline Vandenbussche,analytische toepassingen van chemische evenwichten|titrimetrie|gravimetrie|elektroanalytische methoden.,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|mondeling examen,schriftelijk examen met open vragen|mondeling examen,schriftelijk examen|participatie|werkstuk|vaardigheidstest|gedragsevaluatie op de werkvloer|verslag
+
+BACH,IB6BIW,1,2,I610015,3,Diederik Rousseau|Francesca Ostuzzi,circulaire economie|biogebaseerde economie|hernieuwbare grondstoffen|cleantech|product- service systemen.,periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,werkstuk|peer-evaluatie|verslag
+
+BACH,IB6BIW,1,2,I610016,4,Christophe Wille,functionele groepen|organische verbindingen|reactiviteit|synthese en reactiemechanismen|nomenclatuur.,periodegebonden|niet-periodegebonden,schriftelijk examen|mondeling examen,schriftelijk examen|mondeling examen,gedragsevaluatie op de werkvloer|verslag
+
+BACH,IB6BIW,1,2,I610017,3,Christophe Wille|Imca Sampers,virologie|systematiek.,periodegebonden|niet-periodegebonden,schriftelijk examen|mondeling examen,schriftelijk examen|mondeling examen,participatie|gedragsevaluatie op de werkvloer|verslag
+
+BACH,IB6BIW,1,2,I610019,6,Willem Waegeman|Jan Baetens|Elena Torfs,"lineaire algebra|differentiaalvergelijkingen|analytische methodes|numerieke methodes,  evenwichtspunten|stabiliteit|laplace transformatie",periodegebonden,schriftelijk examen,schriftelijk examen,
+
+BACH,IB6BIW,1,J,E610013,6,Michael Monte|Ria Callens,statica|kinematica|kinetica|wetten van newton|energie|kracht|moment|impuls|puntmassa|star lichaam,periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,
+
+BACH,IB6BIW,2,1,E620032,6,Bruno Vanslambrouck|Martijn van den Broek,hydrostatica|fluïdomechanica|stroming in buizen|leidingsystemen|pompen|warmteoverdracht|thermodynamica|kringprocessen|stoom|vochtige lucht,periodegebonden,schriftelijk examen,schriftelijk examen,
+
+BACH,IB6BIW,2,1,I610012,6,Jan De Smet|Christophe Wille,enzymen|metabolisme|glycolyse|krebscyclus|oxidatieve fosforylering|fotosynthese|lipidemetabolisme|verbruik van atp.,periodegebonden|niet-periodegebonden,schriftelijk examen|mondeling examen,schriftelijk examen|mondeling examen,participatie|gedragsevaluatie op de werkvloer|verslag
+
+BACH,IB6BIW,2,1,I620015,6,Stijn Van Hulle|Joël Hogie,kans(dichtheids)functies|verklarende statistiek|statistische toetsen|enkelvoudige regressie|anova|statistisch proefopzet.,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|openboekexamen,schriftelijk examen met open vragen|openboekexamen,werkstuk
+
+BACH,IB6BIW,2,1,I620017,3,Ann Dumoulin|Yannick Verheust,atoomspectroscopie|aas|aes|molecuulspectroscopie|uv/vis-spectroscopie|fluorescentie|ir-spectroscopie.,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|mondeling examen,schriftelijk examen met open vragen|mondeling examen,mondeling examen|vaardigheidstest|gedragsevaluatie op de werkvloer|verslag
+
+BACH,IB6BIW,2,1,I620018,5,Stijn Van Hulle|Ann Dumoulin,thermodynamica|kinetiek|fase-evenwichten|katalyse|adsorptie|colloïden|reologie.,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|mondeling examen,schriftelijk examen met open vragen|mondeling examen,gedragsevaluatie op de werkvloer|verslag
+
+BACH,IB6BIW,2,1,I620019,4,Christophe Wille,functionele groepen|organische verbindingen|reactiviteit|synthese en reactiemechanismen,periodegebonden|niet-periodegebonden,schriftelijk examen|mondeling examen,schriftelijk examen|mondeling examen,gedragsevaluatie op de werkvloer|verslag
+
+BACH,IB6BIW,2,2,I620020,3,Diederik Rousseau|Christophe Wille,microbiële processen|microbiële activiteit|biofilms|milieubiotechnologie.,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,participatie|verslag
+
+BACH,IB6BIW,2,2,I620022,3,Stefaan Werbrouck|Joris Michiels,planten|dieren|weefsel|structuur|textuur.,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|werkstuk|peer-evaluatie|verslag,schriftelijk examen met open vragen,
+
+BACH,IB6BIW,2,2,I620023,5,Sergei Gusev,industrie 4.0|internet of things|sensoren|data-acquisitie|cloud-dataopslag|dashboarding|labview,periodegebonden|niet-periodegebonden,mondeling examen,mondeling examen,werkstuk|verslag
+
+BACH,IB6BIW,2,2,I620024,5,Ann Dumoulin|Yannick Verheust,chromatografie|gaschromatografie|hplc|planaire scheidingstechnieken|uitsluitingschromatografie|ionenuitwisselingschromatografie.,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|mondeling examen,schriftelijk examen met open vragen|mondeling examen,vaardigheidstest|gedragsevaluatie op de werkvloer|verslag
+
+BACH,IB6BIW,2,2,I620025,5,Joël Hogie|Steven De Meester|Sergei Gusev|Frederik Ronsse|Bruno Vanslambrouck,stoom|stookketels|warmtewisselaars|condensaat|software simulatie|energieconversie|energietechnologie|pompen|compressoren|ventilatoren|koelmachines|warmtepompen.,periodegebonden|niet-periodegebonden,schriftelijk examen,schriftelijk examen,gedragsevaluatie op de werkvloer|verslag
+
+BACH,IB6BIW,2,2,I620026,6,Imca Sampers|Liesbeth Jacxsens,kwaliteitszorgsystemen|haccp|levensmiddelenmicrobiologie|hygiëne|voedselveiligheid|bederf|conservering,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,participatie|werkstuk|gedragsevaluatie op de werkvloer|peer-evaluatie|verslag
+
+BACH,IB6BIW,2,2,I630019,3,Stijn Luca,multivariate data-analyse|meervoudige lineaire regressie|niet-lineaire regressie|logistische regressie|one-way en two-way variantieanalyse (anova).,periodegebonden|niet-periodegebonden,schriftelijk examen|openboekexamen,schriftelijk examen|openboekexamen,werkstuk|verslag
+
+BACH,IB6BIW,3,1,I630045,7,Steven De Meester|Joël Hogie,chemische ingenieurstechnieken|eenheidsoperaties|indamping|destillatie|gasabsorptie|vloeistof/vloeistof-extractie|vaste stof/vloeistof/extractie|adsorptie,periodegebonden|niet-periodegebonden,schriftelijk examen,schriftelijk examen,gedragsevaluatie op de werkvloer|verslag
+
+BACH,IB6BIW,3,1,I630046,6,Stijn Van Hulle|Steven De Meester,watertechnologie|proceswater|afvalwaterzuivering|verbranding|vergisting|compostering.,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|openboekexamen|mondeling examen,schriftelijk examen met open vragen|openboekexamen|mondeling examen,gedragsevaluatie op de werkvloer|verslag
+
+BACH,IB6BIW,3,1,I630047,3,Tom Desmet,biokatalyse|bioconversie|enzymtechnologie|engineering|immobilisatie|solventsystemen|industriële toepassingen.,periodegebonden|niet-periodegebonden,schriftelijk examen|mondeling examen,schriftelijk examen|mondeling examen,participatie|verslag
+
+BACH,IB6BIW,3,1,I630048,6,Sergei Gusev,industrie 4.0|automatisering|programmable logical controller (plc)|actoren|aandrijvingen|pid-regelaar|model predictive control (mpc),periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|mondeling examen,schriftelijk examen met open vragen|mondeling examen,werkstuk|verslag
+
+BACH,IB6BIW,3,2,E620702,3,Ludo Poelaert,bedrijseconomie dubbel boekhouden management accounting investeringsanalyse analyse van de jaarrekening,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,werkstuk|verslag
+
+BACH,IB6BIW,3,2,I630051,6,Katleen Raes,bioreactoren - fermentatie - groeikinetiek - fermentor design,periodegebonden|niet-periodegebonden,schriftelijk examen|openboekexamen|mondeling examen,schriftelijk examen|openboekexamen|mondeling examen,participatie|gedragsevaluatie op de werkvloer|verslag
+
+BACH,IB6BIW,3,2,I630052,5,Stijn Van Hulle|Joël Hogie,deterministisch modelleren|model diagnose|simulatie en scenario-analyse.,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|openboekexamen|mondeling examen,schriftelijk examen met open vragen|openboekexamen|mondeling examen,gedragsevaluatie op de werkvloer|verslag
+
+BACH,IB6BIW,3,2,I630053,4,Jos Knockaert|Steve Dereyne|Jan Desmet|Frederik Ronsse,duurzame energie|hernieuwbare energie|energieproductie|energieverbruik.,periodegebonden,schriftelijk examen,schriftelijk examen,werkstuk
+
+BACH,IB6BIW,3,2,I630055,4,Karel De Schamphelaere|Diederik Rousseau,humane toxicologie|epidemiologie|ecotoxicologie| ecologische risico-evalutie|explosieveiligheid|chemische stoffen.,periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,verslag
+
+BACH,IB6BIW,3,J,I630056,6,Diederik Rousseau|Steven De Meester|Ann Dumoulin|Katleen Raes|Imca Sampers|Stijn Van Hulle,literatuurontsluiting|refereren|wetenschappelijk schrijven|onderzoeksethiek|onderzoeksattitude|projectwerk|groepswerk|praktijkstudie met kritische evaluatie|integratie van basiskennis|schriftelijk en mondeling rapporteren.,periodegebonden|niet-periodegebonden,werkstuk|peer-evaluatie,werkstuk,werkstuk
+
+BACH,IB7BWE,1,1,I700197,4,Jan Verwaeren,programmeren|programmeertaal python|probleemoplossend denken,periodegebonden|niet-periodegebonden,openboekexamen,openboekexamen,mondeling examen|werkstuk
+
+BACH,IB7BWE,1,1,I700198,6,Johan D'heer,klassieke mechanica|mechanische trillingen en golven.,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen|openboekexamen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen|openboekexamen,schriftelijk examen|werkstuk
+
+BACH,IB7BWE,1,1,I700199,6,Pieter Vermeir,"stoechiometrie|activiteit|concentratie|atoomorbitaal|elektronenconfiguratie|ionaire binding|covaltente binding|hybridisatie|vsepr|molecuulorbitaal, enthalpie|entropie|gibbsenergie|reactiesnelheid",periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen|gedragsevaluatie op de werkvloer|verslag
+
+BACH,IB7BWE,1,1,I700200,4,Joris Michiels,zoölogie|taxonomie|embryologie|groei van dieren|functies van dieren|protozoa|invertebraten|vertebraten,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen|gedragsevaluatie op de werkvloer|verslag
+
+BACH,IB7BWE,1,1,I700201,4,Pieter De Frenne,plantkunde|morfologie|anatomie|histologie|systematiek,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,schriftelijk examen|werkstuk|peer-evaluatie
+
+BACH,IB7BWE,1,2,I700190,4,Kris Audenaert,"prokaryotische cel|eukaryotische cel, leven|celorganellen|celactiviteiten|celdifferentiatie",periodegebonden|niet-periodegebonden,schriftelijk examen,schriftelijk examen,verslag
+
+BACH,IB7BWE,1,2,I700202,5,Willem Waegeman,lineaire algebra|toepassingen van lineaire algebra in calculus,periodegebonden|niet-periodegebonden,schriftelijk examen,schriftelijk examen,schriftelijk examen
+
+BACH,IB7BWE,1,2,I700203,3,Jan Verwaeren,programmeren|python,periodegebonden,openboekexamen,openboekexamen,
+
+BACH,IB7BWE,1,2,I700204,4,Johan D'heer,thermodynamica|warmte|temperatuur|hoofdwetten|inwendige energie|enthalpie|entropie|toestandsveranderingen|ideale gassen|reële gassen|relatieve vochtigheidsgraad|warmteoverdracht|convectie|conductie|warmtestraling|warmtewisselaars.,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen|openboekexamen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen|openboekexamen,schriftelijk examen met open vragen|werkstuk
+
+BACH,IB7BWE,1,2,I700205,4,Pieter Vermeir,"londonkracht|van der waalskracht|dipoolmoment|aggregatietoestand|gas|vloeistof|oplossing, evenwicht|zuur|base|zout|amfoliet|buffer|redox, galvanische cel",periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen|gedragsevaluatie op de werkvloer|verslag
+
+BACH,IB7BWE,1,2,I700206,5,Sven Mangelinckx,organische chemie|structuur|stereochemie|reactiviteit|toepassingen,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,vaardigheidstest
+
+BACH,IB7BWE,1,2,I700207,5,Jessika De Clippeleer,"biochemistry|macromolecules|enzymes, central metabolism",periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,participatie|vaardigheidstest|gedragsevaluatie op de werkvloer|verslag
+
+BACH,IB7BWE,1,A,I700196,6,Jan Baetens,verzamelingen|vectoren|functies|continuïteit en limieten|afleiden|integreren|taylor-reeksen|functies van één veranderlijke|functies van meerdere veranderlijken|meervoudige integratie|mathematica|python,periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,
+
+BACH,IB7BWE,2,1,I700208,4,Jan Baetens,gewone differentiaalvergelijkingen|analytische methodes|numerieke methodes|evenwichtspunten|stabiliteit|modellering|stelsels differentiaalvergelijkingen|transformatie van laplace|python|mathematica,periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen|openboekexamen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen|openboekexamen,
+
+BACH,IB7BWE,2,1,I700209,4,Johan D'heer,"electriciteit|magnetisme|lading|elektrostatica|spanning|condensatoren|gelijkstroom, wisselstroom|elektromagnetische inductie|motoren|elektromagnetische golven.",periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen|openboekexamen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen|openboekexamen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen|openboekexamen
+
+BACH,IB7BWE,2,1,I700210,5,Johan D'heer|Jan De Strooper,fluïdomechanica|viscositeit|oppervlaktespanning|druk|archimedes|continuïteitsvergelijking|bernoulli|laminaire stroming|turbulente stroming|drukverlies|leidingen en leidingsystemen|open kanalen|pompen|compressoren|fluid power|pneumatica|vacuümtechnologie|mobiele hydraulica,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen|werkstuk|verslag
+
+BACH,IB7BWE,2,1,I700211,5,Kris Audenaert,genetica  - overerving - populatiegenetica - kwantitatieve genetica - moleculaire genetica - genregulatie,periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,gedragsevaluatie op de werkvloer
+
+BACH,IB7BWE,2,2,I700214,4,Bernard De Baets,kans/waarschijnlijkheid/probabiliteit|toevalsveranderlijken en -vectoren|markov ketens|limietstellingen|(beschrijvende) statistiek|schatten van parameters.,periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,
+
+BACH,IB7BWE,2,2,I700215,3,Johan D'heer,"optica|terugkaatsing|breking|optische instrumenten|interferentie|diffractie|diffractielimiet|zwarte straling|fotonen|atoommodellen|materiegolven|onzekerheidsprinciepe heisenberg|quantummechanica|golfmechanica|schrödingervergelijking, laser|x-straling|led|solar cell|fotometrie|lichtsterkte eenheden|kernfysica|isotopen|kernspin|nmr|radioactiviteit|kernfusie|kernfissie|dosimetrie.",periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen|openboekexamen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen|openboekexamen,verslag
+
+BACH,IB7BWE,2,2,I700216,6,Pieter Vermeir,analytische tools|volumetrische methodes|gravimetrische methodes|elektrochemische methodes,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,gedragsevaluatie op de werkvloer|peer-evaluatie|verslag
+
+BACH,IB7BWE,2,2,I700217,5,Leen De Gelder,microbiologie|micro-organismen,periodegebonden|niet-periodegebonden,schriftelijk examen,schriftelijk examen,schriftelijk examen|participatie
+
+BACH,IB7BWE,2,2,I700218,3,Jan Mertens,ecologie|interacties|biodiversiteit|ecosystemen,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,participatie|peer-evaluatie|verslag
+
+BACH,IB7BWE,3,1,I700040,3,Kathy Messens,"spijsvertering|metabolisme, nutriënten|voeding van de mens",periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,
+
+BACH,IB7BWE,3,1,I700219,5,Mia Eeckhout,landbouwgrondstoffen|materie- en energiebalansen|transportsystemen|zeven|centrifugeren|filtreren|mengen|agglomereren|vergroten|verkleinen|sedimentatie|homogenisatie|opslag|luchtbehandeling,periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,
+
+BACH,IB7BWE,3,1,I700220,4,Leen De Gelder,milieuwetgeving en -vergunningen|milieuproblematiek|milieutechnologie|afvalwaterzuivering|luchtzuivering|afvalverwerking|composteren|mestverwerking,periodegebonden|niet-periodegebonden,schriftelijk examen,schriftelijk examen,participatie|werkstuk|peer-evaluatie
+
+BACH,IB7BWE,3,1,I700221,6,Joachim Schouteten,ondernemerschap|maatschappelijk verantwoord ondernemen|businessplan|creativiteit|kosten -en management accounting|marketing,periodegebonden|niet-periodegebonden,schriftelijk examen,schriftelijk examen,werkstuk|peer-evaluatie
+
+BACH,IB7BWE,3,2,I700223,4,Stijn Luca,statistiek|data-analyse|lineaire modellen|t-testen|hypothese toetsen|variantieanalyse|regressie-analyse|niet-parametrische testen,periodegebonden|niet-periodegebonden,schriftelijk examen|openboekexamen,schriftelijk examen|openboekexamen,vaardigheidstest
+
+BACH,IB7BWE,3,2,I700224,3,Liesbeth Jacxsens,kwaliteitssysteem|brc|haccp|gmp|iso|traceerbaarheid|autocontrole|statistische procescontrole,periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,
+
+BACH,IB7BWE,3,J,I700151,5,Ingrid De Leyn|Leen De Gelder|Veerle Derycke,multidisciplinair literatuuronderzoek|projectwerk|groepswerk|praktijkstudie met kritische evaluatie|schriftelijk en mondeling rapporteren,periodegebonden|niet-periodegebonden,mondeling examen,mondeling examen,participatie|werkstuk|peer-evaluatie
+
+BACH,IBBIORBN,1,1,I002417,5,Dirk Poelman,mechanica|mechanische trillingen en golven|statica|dynamica,periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,
+
+BACH,IBBIORBN,1,1,I002418,5,Rik Van Deun,atoom|ion|molecule|periodiek systeem|chemische reactie|enthalpie|chemische binding|ideale en reële gassen|intermoleculaire attractiekrachten|aggregatietoestand|oplossingen|reactiesnelheid en -orde|reactiemechanisme|elementen en verbindingen in de biosfeer,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen|gedragsevaluatie op de werkvloer|verslag
+
+BACH,IBBIORBN,1,1,I002419,4,Godelieve Gheysen,prokaryotische cel|eukaryotische cel|celorganellen|basis biochemische moleculen|dna|rna|eiwit|genoom|dna-replicatie en -herstel|transcriptie|translatie|mitose|meiose|mutatie|recombinatie|genregulatie|epigenetica|(mendeliaanse en niet-mendeliaanse) overerving|evolutie|recombinant dna|pcr|dna-hybridisatie|ggo,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,participatie|verslag
+
+BACH,IBBIORBN,1,1,I002420,5,Pieter De Frenne,plantkunde|anatomie|morfologie|biodiversiteit van planten,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,werkstuk|peer-evaluatie
+
+BACH,IBBIORBN,1,2,I002422,5,Willem Waegeman,theoretische concepten en toepassingen van lineaire algebra,periodegebonden,schriftelijk examen,schriftelijk examen,schriftelijk examen
+
+BACH,IBBIORBN,1,2,I002423,5,Frederik Ronsse,fysische thermodynamica|fase-overgang|thermodynamische cycli|toegepaste thermodynamica,periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,
+
+BACH,IBBIORBN,1,2,I002424,6,Rik Van Deun|Gijs Du Laing,chemische thermodynamica|chemisch evenwicht|zuren|basen|zouten|buffers|redox|elektrochemie|weinig oplosbare verbindingen|analytische chemie|gravimetrie|volumetrie|chemische industrie,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen|vaardigheidstest|gedragsevaluatie op de werkvloer|verslag
+
+BACH,IBBIORBN,1,2,I002425,5,Luc Tirry,dierkunde|invertebraten|dierlijke weefsels|reproductie en ontwikkeling|protozoa|metazoa,periodegebonden|niet-periodegebonden,schriftelijk examen met meerkeuzevragen,schriftelijk examen met meerkeuzevragen,vaardigheidstest
+
+BACH,IBBIORBN,1,2,I002426,5,Marc Van Meirvenne,planeet aarde|gesteentevormende mineralen|gesteentecyclus|geologische processen|geologische tijd|biologische evolutie|klimaat|geologie en geomorfologie van belgië (deel paleozoïcum en mesozoïcum),periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|mondeling examen|werkstuk
+
+BACH,IBBIORBN,1,2,I002427,4,Kathy Steppe,ecosystemen|energiedoorstroming|kringlopen|populaties|gemeenschappen|klimaat,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,verslag
+
+BACH,IBBIORBN,1,A,I002416,6,Jan Baetens,verzamelingen|vectoren|continuïteit|limieten|functies|exponentiële|logaritmische|goniometrische|cyclometrische en hyperbolische functies|afleiden|integreren|(macht) reeksen|taylor-reeksen|vectorfuncties|functies van één veranderlijke|functies van meerdere veranderlijken|meervoudige integralen|pool-|cilinder- en bolcoördinaten|mathematica|matlab,periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,
+
+BACH,IBBIORBN,1,J,I002421,5,Jan Verwaeren,wetenschappelijk rekenen|programmeren|algoritmen|datastructuren|matlab,periodegebonden|niet-periodegebonden,schriftelijk examen|openboekexamen,schriftelijk examen|openboekexamen,schriftelijk examen|openboekexamen
+
+BACH,IBBIORBN,2,1,I002428,5,Bernard De Baets,gewone en partiële differentiaalvergelijkingen|analytische methodes|numerieke methodes|matlab|stabiliteit,periodegebonden,schriftelijk examen met open vragen|schriftelijk examen|openboekexamen,schriftelijk examen met open vragen|schriftelijk examen|openboekexamen,
+
+BACH,IBBIORBN,2,1,I002429,5,Toon Verstraelen,natuurkunde|elektriciteit|magnetisme|elektromagnetische golven|licht|sensoren,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,participatie|peer-evaluatie
+
+BACH,IBBIORBN,2,1,I002430,4,Luc Tirry,dierkunde|vertebraten|fysiologie|deuterostomia|chordata,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,vaardigheidstest
+
+BACH,IBBIORBN,2,1,I002431,5,Dirk Reheul,plantenfysiologie|groei en ontwikkeling|planten in hun omgeving,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,werkstuk|verslag
+
+BACH,IBBIORBN,2,1,I002432,3,Matthias D'hooghe,organische chemie,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,gedragsevaluatie op de werkvloer|verslag
+
+BACH,IBBIORBN,2,1,I002433,4,Els Van Damme,macromoleculen|enzymen|enzymkinetiek|centraal metabolisme|toepassingen van biochemie,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,participatie|verslag
+
+BACH,IBBIORBN,2,1,I002434,5,Frank Nevens|Jo Dewulf,duurzame ontwikkeling|systeemdenken|transities|productie-en consumptiesystemen|duurzaamheidsevaluatie,periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,participatie|werkstuk|peer-evaluatie
+
+BACH,IBBIORBN,2,2,I002435,5,Bernard De Baets,probabiliteit|toevalsveranderlijken en -vectoren|limietstellingen|steekproeven|schatten van parameters|sampling algoritmen|onzekerheidspropagatie|matlab,periodegebonden,schriftelijk examen met open vragen|schriftelijk examen|openboekexamen,schriftelijk examen met open vragen|schriftelijk examen|openboekexamen,
+
+BACH,IBBIORBN,2,2,I002436,5,Wim Soetaert,bacteriën|schimmels|gisten|virussen|morfologie|fysiologie|nutritie|genetica|metabolisme|taxonomie|immunologie,periodegebonden|niet-periodegebonden,schriftelijk examen,schriftelijk examen,participatie|verslag
+
+BACH,IBBIORBN,2,2,I002437,7,Matthias D'hooghe,organische chemie,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,gedragsevaluatie op de werkvloer|verslag
+
+BACH,IBBIORBN,2,2,I002438,3,Niko Verhoest,fluïda in rust|fluïdodynamica|visceuze stroming in leidingen|pompen en turbines|meet- en regelinstrumenten,periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,
+
+BACH,IBBIORBN,2,2,I002439,4,Marc Van Meirvenne|Kris Verheyen,landschapsvormende processen| glacialen en interglacialen|bodemkunde|hydrogeologie|geologie en geomorfologie van belgië deel cenozoïcum|antropoceen|planetaire grenzen|globale veranderingen|duurzame ontwikkeling.,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen
+
+BACH,IBBIORBN,2,2,I002440,5,Jan Verwaeren,data-wrangling|data-exploratie|datavisualisatie|datacommunicatie|r|exploratieve hoogdimensionale data-analyse.,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|openboekexamen,schriftelijk examen met open vragen|openboekexamen,verslag
+
+BACH,IBBIORBN,3,1,I002441,4,Stijn Luca,statistiek|data-analyse|lineaire modellen|hypothese toetsen|variantieanalyse|regressie- analyse|logistische regressie|likelihood|niet-parametrische testen,periodegebonden|niet-periodegebonden,schriftelijk examen|openboekexamen,schriftelijk examen|openboekexamen,vaardigheidstest
+
+BACH,IBBIORBN,3,1,I002443,4,Jan Pieters,conductie|convectie|straling|diffusie,periodegebonden,schriftelijk examen,schriftelijk examen,
+
+BACH,IBBIORBN,3,1,I002446,4,Wim Verbeke|Xavier Gellynck,economie|micro-economie|macro-economie,periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,
+
+BACH,IBBIORBN,3,1,I002450,5,Frieke Vancoillie,aardobservatie|platformen|sensoren|luchtfotografie|satellietbeelden|visuele beeldinterpretatie|digitale beeldverwerking en informatie-extractie,periodegebonden,schriftelijk examen met open vragen|mondeling examen|vaardigheidstest,schriftelijk examen met open vragen|mondeling examen|vaardigheidstest,
+
+BACH,IBBIORBN,3,1,I002455,5,Stefaan De Neve|Wim Cornelis,verwering en uitgangsmaterialen van bodems|bodemvorming|chemische en fysische bodemkarakteristieken|bodemkwaliteit|bodemclassificatie|bodemvorming,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,participatie|werkstuk
+
+BACH,IBBIORBN,3,1,I002457,3,Lander Baeten,plantengemeenschappen|biodiversiteit|gemeenschapsecologie|vegetatieopnamen|ordinatie|classificatie|inventarisatie,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,participatie|vaardigheidstest
+
+BACH,IBBIORBN,3,2,I002414,5,Frieke Vancoillie,geografische informatiesystemen|digitale databanken|ruimtelijke gegevensanalyse,periodegebonden|niet-periodegebonden,mondeling examen|vaardigheidstest,mondeling examen|vaardigheidstest,participatie|werkstuk|verslag
+
+BACH,IBBIORBN,3,2,I002442,4,Jo Dewulf,proceskunde|eenheidsprocessen|eenheidsoperaties,periodegebonden,openboekexamen,openboekexamen,
+
+BACH,IBBIORBN,3,2,I002444,4,Kristof Demeestere|Gijs Du Laing,analyseproces|anorganische analysetechnieken|scheidingstechnieken|chromatografie|elektroforese|moleculaire spectroscopie|massaspectrometrie|kalibratie|analytische performantiekarakteristieken,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,participatie|verslag
+
+BACH,IBBIORBN,3,2,I002445,4,Ingmar Nopens,biosysteemdynamica|modelleren|simuleren|gevoeligheidsanalyse|parameterschatting|onzekerheidsanalyse|modelselectie|optimaal experimenteel ontwerp,periodegebonden,schriftelijk examen,schriftelijk examen,
+
+BACH,IBBIORBN,3,2,I002461,3,Kris Verheyen,landscapsecologie|toegepaste vegetatiekunde|flora|fauna|bodem|water,periodegebonden|niet-periodegebonden,schriftelijk examen,schriftelijk examen,peer-evaluatie|verslag
+
+BACH,IBBIORBN,3,2,I002751,3,Niko Verhoest,waterbeheer|hydrologische processen|inleiding tot modellering|inleiding tot ecohydrologie,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|mondeling examen,schriftelijk examen met open vragen|mondeling examen,mondeling examen|verslag
+
+BACH,IBBIORBN,3,J,I002447,6,Niko Verhoest|Jana Asselman|Lander Baeten|Marjan De Mey|Stefaan De Neve|Monica Höfte|Peter Ragaert,multidisciplinair literatuuronderzoek en praktijkstudie met kritische interpretatie|werk in groepsverband|technieken voor literatuurontsluiting|schriftelijk en mondeling rapporteren,periodegebonden|niet-periodegebonden,mondeling examen|werkstuk|peer-evaluatie,mondeling examen|werkstuk|peer-evaluatie,participatie
+
+BACH,IBBIORBN,3,J,I002458,6,Kris Verheyen|Joris Van Acker,bosecosysteem|bosecologie|dendrologie|houtidentificatie|houtgebruik,periodegebonden|niet-periodegebonden,mondeling examen|verslag,mondeling examen|verslag,verslag
+
+BACH,IBBIORCG,1,1,I002417,5,Dirk Poelman,mechanica|mechanische trillingen en golven|statica|dynamica,periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,
+
+BACH,IBBIORCG,1,1,I002418,5,Rik Van Deun,atoom|ion|molecule|periodiek systeem|chemische reactie|enthalpie|chemische binding|ideale en reële gassen|intermoleculaire attractiekrachten|aggregatietoestand|oplossingen|reactiesnelheid en -orde|reactiemechanisme|elementen en verbindingen in de biosfeer,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen|gedragsevaluatie op de werkvloer|verslag
+
+BACH,IBBIORCG,1,1,I002419,4,Godelieve Gheysen,prokaryotische cel|eukaryotische cel|celorganellen|basis biochemische moleculen|dna|rna|eiwit|genoom|dna-replicatie en -herstel|transcriptie|translatie|mitose|meiose|mutatie|recombinatie|genregulatie|epigenetica|(mendeliaanse en niet-mendeliaanse) overerving|evolutie|recombinant dna|pcr|dna-hybridisatie|ggo,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,participatie|verslag
+
+BACH,IBBIORCG,1,1,I002420,5,Pieter De Frenne,plantkunde|anatomie|morfologie|biodiversiteit van planten,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,werkstuk|peer-evaluatie
+
+BACH,IBBIORCG,1,2,I002422,5,Willem Waegeman,theoretische concepten en toepassingen van lineaire algebra,periodegebonden,schriftelijk examen,schriftelijk examen,schriftelijk examen
+
+BACH,IBBIORCG,1,2,I002423,5,Frederik Ronsse,fysische thermodynamica|fase-overgang|thermodynamische cycli|toegepaste thermodynamica,periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,
+
+BACH,IBBIORCG,1,2,I002424,6,Rik Van Deun|Gijs Du Laing,chemische thermodynamica|chemisch evenwicht|zuren|basen|zouten|buffers|redox|elektrochemie|weinig oplosbare verbindingen|analytische chemie|gravimetrie|volumetrie|chemische industrie,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen|vaardigheidstest|gedragsevaluatie op de werkvloer|verslag
+
+BACH,IBBIORCG,1,2,I002425,5,Luc Tirry,dierkunde|invertebraten|dierlijke weefsels|reproductie en ontwikkeling|protozoa|metazoa,periodegebonden|niet-periodegebonden,schriftelijk examen met meerkeuzevragen,schriftelijk examen met meerkeuzevragen,vaardigheidstest
+
+BACH,IBBIORCG,1,2,I002426,5,Marc Van Meirvenne,planeet aarde|gesteentevormende mineralen|gesteentecyclus|geologische processen|geologische tijd|biologische evolutie|klimaat|geologie en geomorfologie van belgië (deel paleozoïcum en mesozoïcum),periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|mondeling examen|werkstuk
+
+BACH,IBBIORCG,1,2,I002427,4,Kathy Steppe,ecosystemen|energiedoorstroming|kringlopen|populaties|gemeenschappen|klimaat,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,verslag
+
+BACH,IBBIORCG,1,A,I002416,6,Jan Baetens,verzamelingen|vectoren|continuïteit|limieten|functies|exponentiële|logaritmische|goniometrische|cyclometrische en hyperbolische functies|afleiden|integreren|(macht) reeksen|taylor-reeksen|vectorfuncties|functies van één veranderlijke|functies van meerdere veranderlijken|meervoudige integralen|pool-|cilinder- en bolcoördinaten|mathematica|matlab,periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,
+
+BACH,IBBIORCG,1,J,I002421,5,Jan Verwaeren,wetenschappelijk rekenen|programmeren|algoritmen|datastructuren|matlab,periodegebonden|niet-periodegebonden,schriftelijk examen|openboekexamen,schriftelijk examen|openboekexamen,schriftelijk examen|openboekexamen
+
+BACH,IBBIORCG,2,1,I002428,5,Bernard De Baets,gewone en partiële differentiaalvergelijkingen|analytische methodes|numerieke methodes|matlab|stabiliteit,periodegebonden,schriftelijk examen met open vragen|schriftelijk examen|openboekexamen,schriftelijk examen met open vragen|schriftelijk examen|openboekexamen,
+
+BACH,IBBIORCG,2,1,I002429,5,Toon Verstraelen,natuurkunde|elektriciteit|magnetisme|elektromagnetische golven|licht|sensoren,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,participatie|peer-evaluatie
+
+BACH,IBBIORCG,2,1,I002430,4,Luc Tirry,dierkunde|vertebraten|fysiologie|deuterostomia|chordata,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,vaardigheidstest
+
+BACH,IBBIORCG,2,1,I002431,5,Dirk Reheul,plantenfysiologie|groei en ontwikkeling|planten in hun omgeving,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,werkstuk|verslag
+
+BACH,IBBIORCG,2,1,I002432,3,Matthias D'hooghe,organische chemie,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,gedragsevaluatie op de werkvloer|verslag
+
+BACH,IBBIORCG,2,1,I002433,4,Els Van Damme,macromoleculen|enzymen|enzymkinetiek|centraal metabolisme|toepassingen van biochemie,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,participatie|verslag
+
+BACH,IBBIORCG,2,1,I002434,5,Frank Nevens|Jo Dewulf,duurzame ontwikkeling|systeemdenken|transities|productie-en consumptiesystemen|duurzaamheidsevaluatie,periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,participatie|werkstuk|peer-evaluatie
+
+BACH,IBBIORCG,2,2,I002435,5,Bernard De Baets,probabiliteit|toevalsveranderlijken en -vectoren|limietstellingen|steekproeven|schatten van parameters|sampling algoritmen|onzekerheidspropagatie|matlab,periodegebonden,schriftelijk examen met open vragen|schriftelijk examen|openboekexamen,schriftelijk examen met open vragen|schriftelijk examen|openboekexamen,
+
+BACH,IBBIORCG,2,2,I002436,5,Wim Soetaert,bacteriën|schimmels|gisten|virussen|morfologie|fysiologie|nutritie|genetica|metabolisme|taxonomie|immunologie,periodegebonden|niet-periodegebonden,schriftelijk examen,schriftelijk examen,participatie|verslag
+
+BACH,IBBIORCG,2,2,I002437,7,Matthias D'hooghe,organische chemie,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,gedragsevaluatie op de werkvloer|verslag
+
+BACH,IBBIORCG,2,2,I002438,3,Niko Verhoest,fluïda in rust|fluïdodynamica|visceuze stroming in leidingen|pompen en turbines|meet- en regelinstrumenten,periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,
+
+BACH,IBBIORCG,2,2,I002439,4,Marc Van Meirvenne|Kris Verheyen,landschapsvormende processen| glacialen en interglacialen|bodemkunde|hydrogeologie|geologie en geomorfologie van belgië deel cenozoïcum|antropoceen|planetaire grenzen|globale veranderingen|duurzame ontwikkeling.,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen
+
+BACH,IBBIORCG,2,2,I002440,5,Jan Verwaeren,data-wrangling|data-exploratie|datavisualisatie|datacommunicatie|r|exploratieve hoogdimensionale data-analyse.,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|openboekexamen,schriftelijk examen met open vragen|openboekexamen,verslag
+
+BACH,IBBIORCG,3,1,I002441,4,Stijn Luca,statistiek|data-analyse|lineaire modellen|hypothese toetsen|variantieanalyse|regressie- analyse|logistische regressie|likelihood|niet-parametrische testen,periodegebonden|niet-periodegebonden,schriftelijk examen|openboekexamen,schriftelijk examen|openboekexamen,vaardigheidstest
+
+BACH,IBBIORCG,3,1,I002443,4,Jan Pieters,conductie|convectie|straling|diffusie,periodegebonden,schriftelijk examen,schriftelijk examen,
+
+BACH,IBBIORCG,3,1,I002446,4,Wim Verbeke|Xavier Gellynck,economie|micro-economie|macro-economie,periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,
+
+BACH,IBBIORCG,3,1,I002505,4,Nico Boon,microbiële ecologie|microbiële diversiteit|bodemmicrobiologie|microbiologie van de hogere organismen|nutriëntencycli,periodegebonden|niet-periodegebonden,openboekexamen|mondeling examen,openboekexamen|mondeling examen,werkstuk
+
+BACH,IBBIORCG,3,1,I002511,5,Tom Desmet,biokatalyse|bioconversie|enzymtechnologie|engineering|immobilisatie|solventsystemen|industriële toepassingen,periodegebonden|niet-periodegebonden,schriftelijk examen,schriftelijk examen,participatie|verslag
+
+BACH,IBBIORCG,3,1,I002521,5,Lander Bauters|Winnok De Vos|Andre Skirtach,moleculaire biologie|cytologie|biochemie|cel communicatie en ontwikkeling,periodegebonden|niet-periodegebonden,schriftelijk examen|mondeling examen,schriftelijk examen|mondeling examen,participatie|werkstuk|verslag
+
+BACH,IBBIORCG,3,1,I002522,6,Tina Kyndt|Marjan De Mey|Els Van Damme,kloneringstechnieken|expressievectoren|cdna- en genomische banken|dna-|rna- en proteine-analyse technieken|pcr toepassingen|moleculaire merkers|genisolatie|gen- en genoomanalyse,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|mondeling examen,schriftelijk examen met open vragen|mondeling examen,participatie|verslag
+
+BACH,IBBIORCG,3,2,I002442,4,Jo Dewulf,proceskunde|eenheidsprocessen|eenheidsoperaties,periodegebonden,openboekexamen,openboekexamen,
+
+BACH,IBBIORCG,3,2,I002444,4,Kristof Demeestere|Gijs Du Laing,analyseproces|anorganische analysetechnieken|scheidingstechnieken|chromatografie|elektroforese|moleculaire spectroscopie|massaspectrometrie|kalibratie|analytische performantiekarakteristieken,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,participatie|verslag
+
+BACH,IBBIORCG,3,2,I002445,4,Ingmar Nopens,biosysteemdynamica|modelleren|simuleren|gevoeligheidsanalyse|parameterschatting|onzekerheidsanalyse|modelselectie|optimaal experimenteel ontwerp,periodegebonden,schriftelijk examen,schriftelijk examen,
+
+BACH,IBBIORCG,3,2,I002518,5,Thomas Van Leeuwen,overerving van discrete en non-discrete kenmerken|genetische analyse|geninteracties|populatiegenetica|kwantitatieve genetica,periodegebonden,openboekexamen,openboekexamen,
+
+BACH,IBBIORCG,3,2,I002523,5,Monica Höfte|Tom Defoirdt|Tom Van de Wiele,genregulatie|quorum sensing|sigmafactoren|gastheer-pathogeen interactie,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,participatie|werkstuk|verslag
+
+BACH,IBBIORCG,3,J,I002447,6,Niko Verhoest|Jana Asselman|Lander Baeten|Marjan De Mey|Stefaan De Neve|Monica Höfte|Peter Ragaert,multidisciplinair literatuuronderzoek en praktijkstudie met kritische interpretatie|werk in groepsverband|technieken voor literatuurontsluiting|schriftelijk en mondeling rapporteren,periodegebonden|niet-periodegebonden,mondeling examen|werkstuk|peer-evaluatie,mondeling examen|werkstuk|peer-evaluatie,participatie
+
+BACH,IBBIORCV,1,1,I002417,5,Dirk Poelman,mechanica|mechanische trillingen en golven|statica|dynamica,periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,
+
+BACH,IBBIORCV,1,1,I002418,5,Rik Van Deun,atoom|ion|molecule|periodiek systeem|chemische reactie|enthalpie|chemische binding|ideale en reële gassen|intermoleculaire attractiekrachten|aggregatietoestand|oplossingen|reactiesnelheid en -orde|reactiemechanisme|elementen en verbindingen in de biosfeer,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen|gedragsevaluatie op de werkvloer|verslag
+
+BACH,IBBIORCV,1,1,I002419,4,Godelieve Gheysen,prokaryotische cel|eukaryotische cel|celorganellen|basis biochemische moleculen|dna|rna|eiwit|genoom|dna-replicatie en -herstel|transcriptie|translatie|mitose|meiose|mutatie|recombinatie|genregulatie|epigenetica|(mendeliaanse en niet-mendeliaanse) overerving|evolutie|recombinant dna|pcr|dna-hybridisatie|ggo,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,participatie|verslag
+
+BACH,IBBIORCV,1,1,I002420,5,Pieter De Frenne,plantkunde|anatomie|morfologie|biodiversiteit van planten,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,werkstuk|peer-evaluatie
+
+BACH,IBBIORCV,1,2,I002422,5,Willem Waegeman,theoretische concepten en toepassingen van lineaire algebra,periodegebonden,schriftelijk examen,schriftelijk examen,schriftelijk examen
+
+BACH,IBBIORCV,1,2,I002423,5,Frederik Ronsse,fysische thermodynamica|fase-overgang|thermodynamische cycli|toegepaste thermodynamica,periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,
+
+BACH,IBBIORCV,1,2,I002424,6,Rik Van Deun|Gijs Du Laing,chemische thermodynamica|chemisch evenwicht|zuren|basen|zouten|buffers|redox|elektrochemie|weinig oplosbare verbindingen|analytische chemie|gravimetrie|volumetrie|chemische industrie,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen|vaardigheidstest|gedragsevaluatie op de werkvloer|verslag
+
+BACH,IBBIORCV,1,2,I002425,5,Luc Tirry,dierkunde|invertebraten|dierlijke weefsels|reproductie en ontwikkeling|protozoa|metazoa,periodegebonden|niet-periodegebonden,schriftelijk examen met meerkeuzevragen,schriftelijk examen met meerkeuzevragen,vaardigheidstest
+
+BACH,IBBIORCV,1,2,I002426,5,Marc Van Meirvenne,planeet aarde|gesteentevormende mineralen|gesteentecyclus|geologische processen|geologische tijd|biologische evolutie|klimaat|geologie en geomorfologie van belgië (deel paleozoïcum en mesozoïcum),periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|mondeling examen|werkstuk
+
+BACH,IBBIORCV,1,2,I002427,4,Kathy Steppe,ecosystemen|energiedoorstroming|kringlopen|populaties|gemeenschappen|klimaat,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,verslag
+
+BACH,IBBIORCV,1,A,I002416,6,Jan Baetens,verzamelingen|vectoren|continuïteit|limieten|functies|exponentiële|logaritmische|goniometrische|cyclometrische en hyperbolische functies|afleiden|integreren|(macht) reeksen|taylor-reeksen|vectorfuncties|functies van één veranderlijke|functies van meerdere veranderlijken|meervoudige integralen|pool-|cilinder- en bolcoördinaten|mathematica|matlab,periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,
+
+BACH,IBBIORCV,1,J,I002421,5,Jan Verwaeren,wetenschappelijk rekenen|programmeren|algoritmen|datastructuren|matlab,periodegebonden|niet-periodegebonden,schriftelijk examen|openboekexamen,schriftelijk examen|openboekexamen,schriftelijk examen|openboekexamen
+
+BACH,IBBIORCV,2,1,I002428,5,Bernard De Baets,gewone en partiële differentiaalvergelijkingen|analytische methodes|numerieke methodes|matlab|stabiliteit,periodegebonden,schriftelijk examen met open vragen|schriftelijk examen|openboekexamen,schriftelijk examen met open vragen|schriftelijk examen|openboekexamen,
+
+BACH,IBBIORCV,2,1,I002429,5,Toon Verstraelen,natuurkunde|elektriciteit|magnetisme|elektromagnetische golven|licht|sensoren,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,participatie|peer-evaluatie
+
+BACH,IBBIORCV,2,1,I002430,4,Luc Tirry,dierkunde|vertebraten|fysiologie|deuterostomia|chordata,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,vaardigheidstest
+
+BACH,IBBIORCV,2,1,I002431,5,Dirk Reheul,plantenfysiologie|groei en ontwikkeling|planten in hun omgeving,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,werkstuk|verslag
+
+BACH,IBBIORCV,2,1,I002432,3,Matthias D'hooghe,organische chemie,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,gedragsevaluatie op de werkvloer|verslag
+
+BACH,IBBIORCV,2,1,I002433,4,Els Van Damme,macromoleculen|enzymen|enzymkinetiek|centraal metabolisme|toepassingen van biochemie,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,participatie|verslag
+
+BACH,IBBIORCV,2,1,I002434,5,Frank Nevens|Jo Dewulf,duurzame ontwikkeling|systeemdenken|transities|productie-en consumptiesystemen|duurzaamheidsevaluatie,periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,participatie|werkstuk|peer-evaluatie
+
+BACH,IBBIORCV,2,2,I002435,5,Bernard De Baets,probabiliteit|toevalsveranderlijken en -vectoren|limietstellingen|steekproeven|schatten van parameters|sampling algoritmen|onzekerheidspropagatie|matlab,periodegebonden,schriftelijk examen met open vragen|schriftelijk examen|openboekexamen,schriftelijk examen met open vragen|schriftelijk examen|openboekexamen,
+
+BACH,IBBIORCV,2,2,I002436,5,Wim Soetaert,bacteriën|schimmels|gisten|virussen|morfologie|fysiologie|nutritie|genetica|metabolisme|taxonomie|immunologie,periodegebonden|niet-periodegebonden,schriftelijk examen,schriftelijk examen,participatie|verslag
+
+BACH,IBBIORCV,2,2,I002437,7,Matthias D'hooghe,organische chemie,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,gedragsevaluatie op de werkvloer|verslag
+
+BACH,IBBIORCV,2,2,I002438,3,Niko Verhoest,fluïda in rust|fluïdodynamica|visceuze stroming in leidingen|pompen en turbines|meet- en regelinstrumenten,periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,
+
+BACH,IBBIORCV,2,2,I002439,4,Marc Van Meirvenne|Kris Verheyen,landschapsvormende processen| glacialen en interglacialen|bodemkunde|hydrogeologie|geologie en geomorfologie van belgië deel cenozoïcum|antropoceen|planetaire grenzen|globale veranderingen|duurzame ontwikkeling.,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen
+
+BACH,IBBIORCV,2,2,I002440,5,Jan Verwaeren,data-wrangling|data-exploratie|datavisualisatie|datacommunicatie|r|exploratieve hoogdimensionale data-analyse.,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|openboekexamen,schriftelijk examen met open vragen|openboekexamen,verslag
+
+BACH,IBBIORCV,3,1,I002441,4,Stijn Luca,statistiek|data-analyse|lineaire modellen|hypothese toetsen|variantieanalyse|regressie- analyse|logistische regressie|likelihood|niet-parametrische testen,periodegebonden|niet-periodegebonden,schriftelijk examen|openboekexamen,schriftelijk examen|openboekexamen,vaardigheidstest
+
+BACH,IBBIORCV,3,1,I002443,4,Jan Pieters,conductie|convectie|straling|diffusie,periodegebonden,schriftelijk examen,schriftelijk examen,
+
+BACH,IBBIORCV,3,1,I002446,4,Wim Verbeke|Xavier Gellynck,economie|micro-economie|macro-economie,periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,
+
+BACH,IBBIORCV,3,1,I002509,5,Frank Devlieghere,microbiële contaminatie|conservering|microbiële voedselveiligheid|bederf|hygiëne,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|openboekexamen|mondeling examen,schriftelijk examen met open vragen|openboekexamen|mondeling examen,mondeling examen|participatie|verslag
+
+BACH,IBBIORCV,3,1,I002511,5,Tom Desmet,biokatalyse|bioconversie|enzymtechnologie|engineering|immobilisatie|solventsystemen|industriële toepassingen,periodegebonden|niet-periodegebonden,schriftelijk examen,schriftelijk examen,participatie|verslag
+
+BACH,IBBIORCV,3,1,I002512,5,Christian Stevens,synthese|kinetiek|rheologie|eigenschappen|vormgeving|recyclage van polymeren,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|schriftelijk examen,schriftelijk examen met open vragen|schriftelijk examen,gedragsevaluatie op de werkvloer|verslag
+
+BACH,IBBIORCV,3,2,I002442,4,Jo Dewulf,proceskunde|eenheidsprocessen|eenheidsoperaties,periodegebonden,openboekexamen,openboekexamen,
+
+BACH,IBBIORCV,3,2,I002444,4,Kristof Demeestere|Gijs Du Laing,analyseproces|anorganische analysetechnieken|scheidingstechnieken|chromatografie|elektroforese|moleculaire spectroscopie|massaspectrometrie|kalibratie|analytische performantiekarakteristieken,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,participatie|verslag
+
+BACH,IBBIORCV,3,2,I002445,4,Ingmar Nopens,biosysteemdynamica|modelleren|simuleren|gevoeligheidsanalyse|parameterschatting|onzekerheidsanalyse|modelselectie|optimaal experimenteel ontwerp,periodegebonden,schriftelijk examen,schriftelijk examen,
+
+BACH,IBBIORCV,3,2,I002508,6,Korneel Rabaey|Marjolein Vanoppen|Arne Verliefde,milieubiotechnologie|waterzuivering|drinkwater|afvalwater|membraantechnologie,periodegebonden|niet-periodegebonden,schriftelijk examen|openboekexamen|mondeling examen|werkstuk,schriftelijk examen|openboekexamen|mondeling examen|werkstuk,werkstuk
+
+BACH,IBBIORCV,3,2,I002510,5,Paul Van der Meeren,reactiekinetiek|verblijftijdspreiding|reactorontwerp,periodegebonden,schriftelijk examen|openboekexamen,schriftelijk examen|openboekexamen,
+
+BACH,IBBIORCV,3,2,I002513,5,,levensmiddelen|landbouwgrondstoffen|chemische samenstelling|eigenschappen|afbraakreacties|voedingswaarde|voedselveiligheid,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|schriftelijk examen|mondeling examen,schriftelijk examen met open vragen|schriftelijk examen|mondeling examen,schriftelijk examen met open vragen|openboekexamen|werkstuk|verslag
+
+BACH,IBBIORCV,3,J,I002447,6,Niko Verhoest|Jana Asselman|Lander Baeten|Marjan De Mey|Stefaan De Neve|Monica Höfte|Peter Ragaert,multidisciplinair literatuuronderzoek en praktijkstudie met kritische interpretatie|werk in groepsverband|technieken voor literatuurontsluiting|schriftelijk en mondeling rapporteren,periodegebonden|niet-periodegebonden,mondeling examen|werkstuk|peer-evaluatie,mondeling examen|werkstuk|peer-evaluatie,participatie
+
+BACH,IBBIORLK,1,1,I002417,5,Dirk Poelman,mechanica|mechanische trillingen en golven|statica|dynamica,periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,
+
+BACH,IBBIORLK,1,1,I002418,5,Rik Van Deun,atoom|ion|molecule|periodiek systeem|chemische reactie|enthalpie|chemische binding|ideale en reële gassen|intermoleculaire attractiekrachten|aggregatietoestand|oplossingen|reactiesnelheid en -orde|reactiemechanisme|elementen en verbindingen in de biosfeer,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen|gedragsevaluatie op de werkvloer|verslag
+
+BACH,IBBIORLK,1,1,I002419,4,Godelieve Gheysen,prokaryotische cel|eukaryotische cel|celorganellen|basis biochemische moleculen|dna|rna|eiwit|genoom|dna-replicatie en -herstel|transcriptie|translatie|mitose|meiose|mutatie|recombinatie|genregulatie|epigenetica|(mendeliaanse en niet-mendeliaanse) overerving|evolutie|recombinant dna|pcr|dna-hybridisatie|ggo,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,participatie|verslag
+
+BACH,IBBIORLK,1,1,I002420,5,Pieter De Frenne,plantkunde|anatomie|morfologie|biodiversiteit van planten,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,werkstuk|peer-evaluatie
+
+BACH,IBBIORLK,1,2,I002422,5,Willem Waegeman,theoretische concepten en toepassingen van lineaire algebra,periodegebonden,schriftelijk examen,schriftelijk examen,schriftelijk examen
+
+BACH,IBBIORLK,1,2,I002423,5,Frederik Ronsse,fysische thermodynamica|fase-overgang|thermodynamische cycli|toegepaste thermodynamica,periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,
+
+BACH,IBBIORLK,1,2,I002424,6,Rik Van Deun|Gijs Du Laing,chemische thermodynamica|chemisch evenwicht|zuren|basen|zouten|buffers|redox|elektrochemie|weinig oplosbare verbindingen|analytische chemie|gravimetrie|volumetrie|chemische industrie,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen|vaardigheidstest|gedragsevaluatie op de werkvloer|verslag
+
+BACH,IBBIORLK,1,2,I002425,5,Luc Tirry,dierkunde|invertebraten|dierlijke weefsels|reproductie en ontwikkeling|protozoa|metazoa,periodegebonden|niet-periodegebonden,schriftelijk examen met meerkeuzevragen,schriftelijk examen met meerkeuzevragen,vaardigheidstest
+
+BACH,IBBIORLK,1,2,I002426,5,Marc Van Meirvenne,planeet aarde|gesteentevormende mineralen|gesteentecyclus|geologische processen|geologische tijd|biologische evolutie|klimaat|geologie en geomorfologie van belgië (deel paleozoïcum en mesozoïcum),periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|mondeling examen|werkstuk
+
+BACH,IBBIORLK,1,2,I002427,4,Kathy Steppe,ecosystemen|energiedoorstroming|kringlopen|populaties|gemeenschappen|klimaat,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,verslag
+
+BACH,IBBIORLK,1,A,I002416,6,Jan Baetens,verzamelingen|vectoren|continuïteit|limieten|functies|exponentiële|logaritmische|goniometrische|cyclometrische en hyperbolische functies|afleiden|integreren|(macht) reeksen|taylor-reeksen|vectorfuncties|functies van één veranderlijke|functies van meerdere veranderlijken|meervoudige integralen|pool-|cilinder- en bolcoördinaten|mathematica|matlab,periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,
+
+BACH,IBBIORLK,1,J,I002421,5,Jan Verwaeren,wetenschappelijk rekenen|programmeren|algoritmen|datastructuren|matlab,periodegebonden|niet-periodegebonden,schriftelijk examen|openboekexamen,schriftelijk examen|openboekexamen,schriftelijk examen|openboekexamen
+
+BACH,IBBIORLK,2,1,I002428,5,Bernard De Baets,gewone en partiële differentiaalvergelijkingen|analytische methodes|numerieke methodes|matlab|stabiliteit,periodegebonden,schriftelijk examen met open vragen|schriftelijk examen|openboekexamen,schriftelijk examen met open vragen|schriftelijk examen|openboekexamen,
+
+BACH,IBBIORLK,2,1,I002429,5,Toon Verstraelen,natuurkunde|elektriciteit|magnetisme|elektromagnetische golven|licht|sensoren,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,participatie|peer-evaluatie
+
+BACH,IBBIORLK,2,1,I002430,4,Luc Tirry,dierkunde|vertebraten|fysiologie|deuterostomia|chordata,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,vaardigheidstest
+
+BACH,IBBIORLK,2,1,I002431,5,Dirk Reheul,plantenfysiologie|groei en ontwikkeling|planten in hun omgeving,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,werkstuk|verslag
+
+BACH,IBBIORLK,2,1,I002432,3,Matthias D'hooghe,organische chemie,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,gedragsevaluatie op de werkvloer|verslag
+
+BACH,IBBIORLK,2,1,I002433,4,Els Van Damme,macromoleculen|enzymen|enzymkinetiek|centraal metabolisme|toepassingen van biochemie,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,participatie|verslag
+
+BACH,IBBIORLK,2,1,I002434,5,Frank Nevens|Jo Dewulf,duurzame ontwikkeling|systeemdenken|transities|productie-en consumptiesystemen|duurzaamheidsevaluatie,periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,participatie|werkstuk|peer-evaluatie
+
+BACH,IBBIORLK,2,2,I002435,5,Bernard De Baets,probabiliteit|toevalsveranderlijken en -vectoren|limietstellingen|steekproeven|schatten van parameters|sampling algoritmen|onzekerheidspropagatie|matlab,periodegebonden,schriftelijk examen met open vragen|schriftelijk examen|openboekexamen,schriftelijk examen met open vragen|schriftelijk examen|openboekexamen,
+
+BACH,IBBIORLK,2,2,I002436,5,Wim Soetaert,bacteriën|schimmels|gisten|virussen|morfologie|fysiologie|nutritie|genetica|metabolisme|taxonomie|immunologie,periodegebonden|niet-periodegebonden,schriftelijk examen,schriftelijk examen,participatie|verslag
+
+BACH,IBBIORLK,2,2,I002437,7,Matthias D'hooghe,organische chemie,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,gedragsevaluatie op de werkvloer|verslag
+
+BACH,IBBIORLK,2,2,I002438,3,Niko Verhoest,fluïda in rust|fluïdodynamica|visceuze stroming in leidingen|pompen en turbines|meet- en regelinstrumenten,periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,
+
+BACH,IBBIORLK,2,2,I002439,4,Marc Van Meirvenne|Kris Verheyen,landschapsvormende processen| glacialen en interglacialen|bodemkunde|hydrogeologie|geologie en geomorfologie van belgië deel cenozoïcum|antropoceen|planetaire grenzen|globale veranderingen|duurzame ontwikkeling.,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen
+
+BACH,IBBIORLK,2,2,I002440,5,Jan Verwaeren,data-wrangling|data-exploratie|datavisualisatie|datacommunicatie|r|exploratieve hoogdimensionale data-analyse.,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|openboekexamen,schriftelijk examen met open vragen|openboekexamen,verslag
+
+BACH,IBBIORLK,3,1,I002441,4,Stijn Luca,statistiek|data-analyse|lineaire modellen|hypothese toetsen|variantieanalyse|regressie- analyse|logistische regressie|likelihood|niet-parametrische testen,periodegebonden|niet-periodegebonden,schriftelijk examen|openboekexamen,schriftelijk examen|openboekexamen,vaardigheidstest
+
+BACH,IBBIORLK,3,1,I002443,4,Jan Pieters,conductie|convectie|straling|diffusie,periodegebonden,schriftelijk examen,schriftelijk examen,
+
+BACH,IBBIORLK,3,1,I002446,4,Wim Verbeke|Xavier Gellynck,economie|micro-economie|macro-economie,periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,
+
+BACH,IBBIORLK,3,1,I002455,5,Stefaan De Neve|Wim Cornelis,verwering en uitgangsmaterialen van bodems|bodemvorming|chemische en fysische bodemkarakteristieken|bodemkwaliteit|bodemclassificatie|bodemvorming,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,participatie|werkstuk
+
+BACH,IBBIORLK,3,1,I002515,5,Dirk Reheul|Marie-Christine Van Labeke,plantenteelt en -reproductie|landbouwsystemen|monoculturen|mengteelten|vruchtwisseling|wisselbouw|bouwplannen|geïntegreerde landbouw|vanggewassen|transgene gewassen|akkerranden|grondloze teelten|vlinderbloemigen|minimale bodembewerkingen|agroforestry,periodegebonden,mondeling examen|werkstuk,mondeling examen|werkstuk,
+
+BACH,IBBIORLK,3,1,I002516,5,Patrick De Clercq|Benny De Cauwer|Monica Höfte|Pieter Spanoghe,gewasbescherming|entomologie|fytopathologie|herbologie|fytofarmacie,periodegebonden|niet-periodegebonden,schriftelijk examen,schriftelijk examen,
+
+BACH,IBBIORLK,3,2,I002442,4,Jo Dewulf,proceskunde|eenheidsprocessen|eenheidsoperaties,periodegebonden,openboekexamen,openboekexamen,
+
+BACH,IBBIORLK,3,2,I002444,4,Kristof Demeestere|Gijs Du Laing,analyseproces|anorganische analysetechnieken|scheidingstechnieken|chromatografie|elektroforese|moleculaire spectroscopie|massaspectrometrie|kalibratie|analytische performantiekarakteristieken,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,participatie|verslag
+
+BACH,IBBIORLK,3,2,I002445,4,Ingmar Nopens,biosysteemdynamica|modelleren|simuleren|gevoeligheidsanalyse|parameterschatting|onzekerheidsanalyse|modelselectie|optimaal experimenteel ontwerp,periodegebonden,schriftelijk examen,schriftelijk examen,
+
+BACH,IBBIORLK,3,2,I002517,5,Stefaan De Smet|Gilbert Van Stappen,dierlijke productie|productiesystemen|rund|varken|kip|melkproductie|vleesproductie|eiproductie|dier-milieu-interactie|dierenwelzijn|emissies|aquacultuur|vis|larvaal voedsel|duurzaamheid,periodegebonden|niet-periodegebonden,schriftelijk examen|mondeling examen,schriftelijk examen|mondeling examen,participatie|verslag
+
+BACH,IBBIORLK,3,2,I002518,5,Thomas Van Leeuwen,overerving van discrete en non-discrete kenmerken|genetische analyse|geninteracties|populatiegenetica|kwantitatieve genetica,periodegebonden,openboekexamen,openboekexamen,
+
+BACH,IBBIORLK,3,2,I002519,5,Ludwig Lauwers,agrarisch bedrijfsbeheer|productiebeheer|kostenanalyse|rendabiliteit|efficiëntie-analyse|integrale bedrijfsplanning|financiële planning|risicomanagement|markt-en beleidsomgeving,periodegebonden|niet-periodegebonden,schriftelijk examen|mondeling examen,schriftelijk examen|mondeling examen,mondeling examen|verslag
+
+BACH,IBBIORLK,3,J,I002447,6,Niko Verhoest|Jana Asselman|Lander Baeten|Marjan De Mey|Stefaan De Neve|Monica Höfte|Peter Ragaert,multidisciplinair literatuuronderzoek en praktijkstudie met kritische interpretatie|werk in groepsverband|technieken voor literatuurontsluiting|schriftelijk en mondeling rapporteren,periodegebonden|niet-periodegebonden,mondeling examen|werkstuk|peer-evaluatie,mondeling examen|werkstuk|peer-evaluatie,participatie
+
+BACH,IBBIORLW,1,1,I002417,5,Dirk Poelman,mechanica|mechanische trillingen en golven|statica|dynamica,periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,
+
+BACH,IBBIORLW,1,1,I002418,5,Rik Van Deun,atoom|ion|molecule|periodiek systeem|chemische reactie|enthalpie|chemische binding|ideale en reële gassen|intermoleculaire attractiekrachten|aggregatietoestand|oplossingen|reactiesnelheid en -orde|reactiemechanisme|elementen en verbindingen in de biosfeer,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen|gedragsevaluatie op de werkvloer|verslag
+
+BACH,IBBIORLW,1,1,I002419,4,Godelieve Gheysen,prokaryotische cel|eukaryotische cel|celorganellen|basis biochemische moleculen|dna|rna|eiwit|genoom|dna-replicatie en -herstel|transcriptie|translatie|mitose|meiose|mutatie|recombinatie|genregulatie|epigenetica|(mendeliaanse en niet-mendeliaanse) overerving|evolutie|recombinant dna|pcr|dna-hybridisatie|ggo,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,participatie|verslag
+
+BACH,IBBIORLW,1,1,I002420,5,Pieter De Frenne,plantkunde|anatomie|morfologie|biodiversiteit van planten,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,werkstuk|peer-evaluatie
+
+BACH,IBBIORLW,1,2,I002422,5,Willem Waegeman,theoretische concepten en toepassingen van lineaire algebra,periodegebonden,schriftelijk examen,schriftelijk examen,schriftelijk examen
+
+BACH,IBBIORLW,1,2,I002423,5,Frederik Ronsse,fysische thermodynamica|fase-overgang|thermodynamische cycli|toegepaste thermodynamica,periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,
+
+BACH,IBBIORLW,1,2,I002424,6,Rik Van Deun|Gijs Du Laing,chemische thermodynamica|chemisch evenwicht|zuren|basen|zouten|buffers|redox|elektrochemie|weinig oplosbare verbindingen|analytische chemie|gravimetrie|volumetrie|chemische industrie,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen|vaardigheidstest|gedragsevaluatie op de werkvloer|verslag
+
+BACH,IBBIORLW,1,2,I002425,5,Luc Tirry,dierkunde|invertebraten|dierlijke weefsels|reproductie en ontwikkeling|protozoa|metazoa,periodegebonden|niet-periodegebonden,schriftelijk examen met meerkeuzevragen,schriftelijk examen met meerkeuzevragen,vaardigheidstest
+
+BACH,IBBIORLW,1,2,I002426,5,Marc Van Meirvenne,planeet aarde|gesteentevormende mineralen|gesteentecyclus|geologische processen|geologische tijd|biologische evolutie|klimaat|geologie en geomorfologie van belgië (deel paleozoïcum en mesozoïcum),periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|mondeling examen|werkstuk
+
+BACH,IBBIORLW,1,2,I002427,4,Kathy Steppe,ecosystemen|energiedoorstroming|kringlopen|populaties|gemeenschappen|klimaat,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,verslag
+
+BACH,IBBIORLW,1,A,I002416,6,Jan Baetens,verzamelingen|vectoren|continuïteit|limieten|functies|exponentiële|logaritmische|goniometrische|cyclometrische en hyperbolische functies|afleiden|integreren|(macht) reeksen|taylor-reeksen|vectorfuncties|functies van één veranderlijke|functies van meerdere veranderlijken|meervoudige integralen|pool-|cilinder- en bolcoördinaten|mathematica|matlab,periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,
+
+BACH,IBBIORLW,1,J,I002421,5,Jan Verwaeren,wetenschappelijk rekenen|programmeren|algoritmen|datastructuren|matlab,periodegebonden|niet-periodegebonden,schriftelijk examen|openboekexamen,schriftelijk examen|openboekexamen,schriftelijk examen|openboekexamen
+
+BACH,IBBIORLW,2,1,I002428,5,Bernard De Baets,gewone en partiële differentiaalvergelijkingen|analytische methodes|numerieke methodes|matlab|stabiliteit,periodegebonden,schriftelijk examen met open vragen|schriftelijk examen|openboekexamen,schriftelijk examen met open vragen|schriftelijk examen|openboekexamen,
+
+BACH,IBBIORLW,2,1,I002429,5,Toon Verstraelen,natuurkunde|elektriciteit|magnetisme|elektromagnetische golven|licht|sensoren,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,participatie|peer-evaluatie
+
+BACH,IBBIORLW,2,1,I002430,4,Luc Tirry,dierkunde|vertebraten|fysiologie|deuterostomia|chordata,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,vaardigheidstest
+
+BACH,IBBIORLW,2,1,I002431,5,Dirk Reheul,plantenfysiologie|groei en ontwikkeling|planten in hun omgeving,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,werkstuk|verslag
+
+BACH,IBBIORLW,2,1,I002432,3,Matthias D'hooghe,organische chemie,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,gedragsevaluatie op de werkvloer|verslag
+
+BACH,IBBIORLW,2,1,I002433,4,Els Van Damme,macromoleculen|enzymen|enzymkinetiek|centraal metabolisme|toepassingen van biochemie,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,participatie|verslag
+
+BACH,IBBIORLW,2,1,I002434,5,Frank Nevens|Jo Dewulf,duurzame ontwikkeling|systeemdenken|transities|productie-en consumptiesystemen|duurzaamheidsevaluatie,periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,participatie|werkstuk|peer-evaluatie
+
+BACH,IBBIORLW,2,2,I002435,5,Bernard De Baets,probabiliteit|toevalsveranderlijken en -vectoren|limietstellingen|steekproeven|schatten van parameters|sampling algoritmen|onzekerheidspropagatie|matlab,periodegebonden,schriftelijk examen met open vragen|schriftelijk examen|openboekexamen,schriftelijk examen met open vragen|schriftelijk examen|openboekexamen,
+
+BACH,IBBIORLW,2,2,I002436,5,Wim Soetaert,bacteriën|schimmels|gisten|virussen|morfologie|fysiologie|nutritie|genetica|metabolisme|taxonomie|immunologie,periodegebonden|niet-periodegebonden,schriftelijk examen,schriftelijk examen,participatie|verslag
+
+BACH,IBBIORLW,2,2,I002437,7,Matthias D'hooghe,organische chemie,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,gedragsevaluatie op de werkvloer|verslag
+
+BACH,IBBIORLW,2,2,I002438,3,Niko Verhoest,fluïda in rust|fluïdodynamica|visceuze stroming in leidingen|pompen en turbines|meet- en regelinstrumenten,periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,
+
+BACH,IBBIORLW,2,2,I002439,4,Marc Van Meirvenne|Kris Verheyen,landschapsvormende processen| glacialen en interglacialen|bodemkunde|hydrogeologie|geologie en geomorfologie van belgië deel cenozoïcum|antropoceen|planetaire grenzen|globale veranderingen|duurzame ontwikkeling.,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen
+
+BACH,IBBIORLW,2,2,I002440,5,Jan Verwaeren,data-wrangling|data-exploratie|datavisualisatie|datacommunicatie|r|exploratieve hoogdimensionale data-analyse.,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|openboekexamen,schriftelijk examen met open vragen|openboekexamen,verslag
+
+BACH,IBBIORLW,3,1,I002441,4,Stijn Luca,statistiek|data-analyse|lineaire modellen|hypothese toetsen|variantieanalyse|regressie- analyse|logistische regressie|likelihood|niet-parametrische testen,periodegebonden|niet-periodegebonden,schriftelijk examen|openboekexamen,schriftelijk examen|openboekexamen,vaardigheidstest
+
+BACH,IBBIORLW,3,1,I002443,4,Jan Pieters,conductie|convectie|straling|diffusie,periodegebonden,schriftelijk examen,schriftelijk examen,
+
+BACH,IBBIORLW,3,1,I002446,4,Wim Verbeke|Xavier Gellynck,economie|micro-economie|macro-economie,periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,
+
+BACH,IBBIORLW,3,1,I002448,5,Stefaan De Neve|Peter Finke,verwering en uitgangsmaterialen van bodems|bodemvorming|chemische en fysische bodemkarakteristieken|bodemkwaliteit|bodemclassificatie|bodemvorming,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,verslag
+
+BACH,IBBIORLW,3,1,I002449,3,Niko Verhoest,neerslag|evapotranspiratie|infiltratie|grondwaterstroming|afvoer|hydrometrie,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|mondeling examen,schriftelijk examen met open vragen|mondeling examen,mondeling examen|verslag
+
+BACH,IBBIORLW,3,1,I002450,5,Frieke Vancoillie,aardobservatie|platformen|sensoren|luchtfotografie|satellietbeelden|visuele beeldinterpretatie|digitale beeldverwerking en informatie-extractie,periodegebonden,schriftelijk examen met open vragen|mondeling examen|vaardigheidstest,schriftelijk examen met open vragen|mondeling examen|vaardigheidstest,
+
+BACH,IBBIORLW,3,1,I002451,4,Diego Miralles,landbedekking|klimaat|klimaatfeedback|evaporatie|hydrologische cyclus,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,peer-evaluatie|verslag
+
+BACH,IBBIORLW,3,2,I002442,4,Jo Dewulf,proceskunde|eenheidsprocessen|eenheidsoperaties,periodegebonden,openboekexamen,openboekexamen,
+
+BACH,IBBIORLW,3,2,I002444,4,Kristof Demeestere|Gijs Du Laing,analyseproces|anorganische analysetechnieken|scheidingstechnieken|chromatografie|elektroforese|moleculaire spectroscopie|massaspectrometrie|kalibratie|analytische performantiekarakteristieken,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,participatie|verslag
+
+BACH,IBBIORLW,3,2,I002445,4,Ingmar Nopens,biosysteemdynamica|modelleren|simuleren|gevoeligheidsanalyse|parameterschatting|onzekerheidsanalyse|modelselectie|optimaal experimenteel ontwerp,periodegebonden,schriftelijk examen,schriftelijk examen,
+
+BACH,IBBIORLW,3,2,I002452,3,Frieke Vancoillie,geografische informatiesystemen|digitale databanken|ruimtelijke gegevensanalyse,periodegebonden|niet-periodegebonden,mondeling examen|vaardigheidstest,mondeling examen|vaardigheidstest,participatie|verslag
+
+BACH,IBBIORLW,3,2,I002453,5,Steven Sleutel,koolstof|stikstof|element cycli|terrestrische ecosystemen|bodem|zoetwater|microbiële processen|milieu chemie|oceanen|wetlands,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|mondeling examen,schriftelijk examen met open vragen|mondeling examen,verslag
+
+BACH,IBBIORLW,3,2,I002454,5,Ellen Van De Vijver,design-gebaseerde staalname|exploratieve data-analyse|ruimtelijke variabiliteit|ruimtelijke interpolatie en simulatie|model-gebaseerde staalname,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,vaardigheidstest
+
+BACH,IBBIORLW,3,J,I002447,6,Niko Verhoest|Jana Asselman|Lander Baeten|Marjan De Mey|Stefaan De Neve|Monica Höfte|Peter Ragaert,multidisciplinair literatuuronderzoek en praktijkstudie met kritische interpretatie|werk in groepsverband|technieken voor literatuurontsluiting|schriftelijk en mondeling rapporteren,periodegebonden|niet-periodegebonden,mondeling examen|werkstuk|peer-evaluatie,mondeling examen|werkstuk|peer-evaluatie,participatie
+
+BACH,IBBIORMT,1,1,I002417,5,Dirk Poelman,mechanica|mechanische trillingen en golven|statica|dynamica,periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,
+
+BACH,IBBIORMT,1,1,I002418,5,Rik Van Deun,atoom|ion|molecule|periodiek systeem|chemische reactie|enthalpie|chemische binding|ideale en reële gassen|intermoleculaire attractiekrachten|aggregatietoestand|oplossingen|reactiesnelheid en -orde|reactiemechanisme|elementen en verbindingen in de biosfeer,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen|gedragsevaluatie op de werkvloer|verslag
+
+BACH,IBBIORMT,1,1,I002419,4,Godelieve Gheysen,prokaryotische cel|eukaryotische cel|celorganellen|basis biochemische moleculen|dna|rna|eiwit|genoom|dna-replicatie en -herstel|transcriptie|translatie|mitose|meiose|mutatie|recombinatie|genregulatie|epigenetica|(mendeliaanse en niet-mendeliaanse) overerving|evolutie|recombinant dna|pcr|dna-hybridisatie|ggo,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,participatie|verslag
+
+BACH,IBBIORMT,1,1,I002420,5,Pieter De Frenne,plantkunde|anatomie|morfologie|biodiversiteit van planten,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,werkstuk|peer-evaluatie
+
+BACH,IBBIORMT,1,2,I002422,5,Willem Waegeman,theoretische concepten en toepassingen van lineaire algebra,periodegebonden,schriftelijk examen,schriftelijk examen,schriftelijk examen
+
+BACH,IBBIORMT,1,2,I002423,5,Frederik Ronsse,fysische thermodynamica|fase-overgang|thermodynamische cycli|toegepaste thermodynamica,periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,
+
+BACH,IBBIORMT,1,2,I002424,6,Rik Van Deun|Gijs Du Laing,chemische thermodynamica|chemisch evenwicht|zuren|basen|zouten|buffers|redox|elektrochemie|weinig oplosbare verbindingen|analytische chemie|gravimetrie|volumetrie|chemische industrie,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen|vaardigheidstest|gedragsevaluatie op de werkvloer|verslag
+
+BACH,IBBIORMT,1,2,I002425,5,Luc Tirry,dierkunde|invertebraten|dierlijke weefsels|reproductie en ontwikkeling|protozoa|metazoa,periodegebonden|niet-periodegebonden,schriftelijk examen met meerkeuzevragen,schriftelijk examen met meerkeuzevragen,vaardigheidstest
+
+BACH,IBBIORMT,1,2,I002426,5,Marc Van Meirvenne,planeet aarde|gesteentevormende mineralen|gesteentecyclus|geologische processen|geologische tijd|biologische evolutie|klimaat|geologie en geomorfologie van belgië (deel paleozoïcum en mesozoïcum),periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|mondeling examen|werkstuk
+
+BACH,IBBIORMT,1,2,I002427,4,Kathy Steppe,ecosystemen|energiedoorstroming|kringlopen|populaties|gemeenschappen|klimaat,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,verslag
+
+BACH,IBBIORMT,1,A,I002416,6,Jan Baetens,verzamelingen|vectoren|continuïteit|limieten|functies|exponentiële|logaritmische|goniometrische|cyclometrische en hyperbolische functies|afleiden|integreren|(macht) reeksen|taylor-reeksen|vectorfuncties|functies van één veranderlijke|functies van meerdere veranderlijken|meervoudige integralen|pool-|cilinder- en bolcoördinaten|mathematica|matlab,periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,
+
+BACH,IBBIORMT,1,J,I002421,5,Jan Verwaeren,wetenschappelijk rekenen|programmeren|algoritmen|datastructuren|matlab,periodegebonden|niet-periodegebonden,schriftelijk examen|openboekexamen,schriftelijk examen|openboekexamen,schriftelijk examen|openboekexamen
+
+BACH,IBBIORMT,2,1,I002428,5,Bernard De Baets,gewone en partiële differentiaalvergelijkingen|analytische methodes|numerieke methodes|matlab|stabiliteit,periodegebonden,schriftelijk examen met open vragen|schriftelijk examen|openboekexamen,schriftelijk examen met open vragen|schriftelijk examen|openboekexamen,
+
+BACH,IBBIORMT,2,1,I002429,5,Toon Verstraelen,natuurkunde|elektriciteit|magnetisme|elektromagnetische golven|licht|sensoren,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,participatie|peer-evaluatie
+
+BACH,IBBIORMT,2,1,I002430,4,Luc Tirry,dierkunde|vertebraten|fysiologie|deuterostomia|chordata,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,vaardigheidstest
+
+BACH,IBBIORMT,2,1,I002431,5,Dirk Reheul,plantenfysiologie|groei en ontwikkeling|planten in hun omgeving,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,werkstuk|verslag
+
+BACH,IBBIORMT,2,1,I002432,3,Matthias D'hooghe,organische chemie,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,gedragsevaluatie op de werkvloer|verslag
+
+BACH,IBBIORMT,2,1,I002433,4,Els Van Damme,macromoleculen|enzymen|enzymkinetiek|centraal metabolisme|toepassingen van biochemie,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,participatie|verslag
+
+BACH,IBBIORMT,2,1,I002434,5,Frank Nevens|Jo Dewulf,duurzame ontwikkeling|systeemdenken|transities|productie-en consumptiesystemen|duurzaamheidsevaluatie,periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,participatie|werkstuk|peer-evaluatie
+
+BACH,IBBIORMT,2,2,I002435,5,Bernard De Baets,probabiliteit|toevalsveranderlijken en -vectoren|limietstellingen|steekproeven|schatten van parameters|sampling algoritmen|onzekerheidspropagatie|matlab,periodegebonden,schriftelijk examen met open vragen|schriftelijk examen|openboekexamen,schriftelijk examen met open vragen|schriftelijk examen|openboekexamen,
+
+BACH,IBBIORMT,2,2,I002436,5,Wim Soetaert,bacteriën|schimmels|gisten|virussen|morfologie|fysiologie|nutritie|genetica|metabolisme|taxonomie|immunologie,periodegebonden|niet-periodegebonden,schriftelijk examen,schriftelijk examen,participatie|verslag
+
+BACH,IBBIORMT,2,2,I002437,7,Matthias D'hooghe,organische chemie,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,gedragsevaluatie op de werkvloer|verslag
+
+BACH,IBBIORMT,2,2,I002438,3,Niko Verhoest,fluïda in rust|fluïdodynamica|visceuze stroming in leidingen|pompen en turbines|meet- en regelinstrumenten,periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,
+
+BACH,IBBIORMT,2,2,I002439,4,Marc Van Meirvenne|Kris Verheyen,landschapsvormende processen| glacialen en interglacialen|bodemkunde|hydrogeologie|geologie en geomorfologie van belgië deel cenozoïcum|antropoceen|planetaire grenzen|globale veranderingen|duurzame ontwikkeling.,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen
+
+BACH,IBBIORMT,2,2,I002440,5,Jan Verwaeren,data-wrangling|data-exploratie|datavisualisatie|datacommunicatie|r|exploratieve hoogdimensionale data-analyse.,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|openboekexamen,schriftelijk examen met open vragen|openboekexamen,verslag
+
+BACH,IBBIORMT,3,1,I002441,4,Stijn Luca,statistiek|data-analyse|lineaire modellen|hypothese toetsen|variantieanalyse|regressie- analyse|logistische regressie|likelihood|niet-parametrische testen,periodegebonden|niet-periodegebonden,schriftelijk examen|openboekexamen,schriftelijk examen|openboekexamen,vaardigheidstest
+
+BACH,IBBIORMT,3,1,I002443,4,Jan Pieters,conductie|convectie|straling|diffusie,periodegebonden,schriftelijk examen,schriftelijk examen,
+
+BACH,IBBIORMT,3,1,I002446,4,Wim Verbeke|Xavier Gellynck,economie|micro-economie|macro-economie,periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,
+
+BACH,IBBIORMT,3,1,I002503,6,Filip Tack|Christophe Walgraeve,polluenten|verontreiniging|bodem|lucht|water|biogeochemie,periodegebonden|niet-periodegebonden,schriftelijk examen,schriftelijk examen,verslag
+
+BACH,IBBIORMT,3,1,I002504,3,Wout Van Echelpoel,zoetwater|gemeenschappen|ecologische processen|exploitatie|verstoring|bescherming|rivieren|meren|poelen|wetlands,periodegebonden,schriftelijk examen,schriftelijk examen,
+
+BACH,IBBIORMT,3,1,I002505,4,Nico Boon,microbiële ecologie|microbiële diversiteit|bodemmicrobiologie|microbiologie van de hogere organismen|nutriëntencycli,periodegebonden|niet-periodegebonden,openboekexamen|mondeling examen,openboekexamen|mondeling examen,werkstuk
+
+BACH,IBBIORMT,3,1,I002701,3,Sophie Huysveld,clean technology|sustainable technology|industrial ecology|green chemistry|process integration,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|openboekexamen,schriftelijk examen met open vragen|openboekexamen,participatie|werkstuk
+
+BACH,IBBIORMT,3,2,E039060,4,Jeroen Beeckman,duurzame energie|hernieuwbare energie|rationeel energiegebruik,periodegebonden,schriftelijk examen|openboekexamen,schriftelijk examen|openboekexamen,
+
+BACH,IBBIORMT,3,2,I002442,4,Jo Dewulf,proceskunde|eenheidsprocessen|eenheidsoperaties,periodegebonden,openboekexamen,openboekexamen,
+
+BACH,IBBIORMT,3,2,I002444,4,Kristof Demeestere|Gijs Du Laing,analyseproces|anorganische analysetechnieken|scheidingstechnieken|chromatografie|elektroforese|moleculaire spectroscopie|massaspectrometrie|kalibratie|analytische performantiekarakteristieken,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,participatie|verslag
+
+BACH,IBBIORMT,3,2,I002445,4,Ingmar Nopens,biosysteemdynamica|modelleren|simuleren|gevoeligheidsanalyse|parameterschatting|onzekerheidsanalyse|modelselectie|optimaal experimenteel ontwerp,periodegebonden,schriftelijk examen,schriftelijk examen,
+
+BACH,IBBIORMT,3,2,I002507,4,Frederik Ronsse|Steven De Meester,beheer van vast afval en - materialen|materiaalstromen|recyclage|materialenhergebruik|energieterugwinning,periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,
+
+BACH,IBBIORMT,3,2,I002508,6,Korneel Rabaey|Marjolein Vanoppen|Arne Verliefde,milieubiotechnologie|waterzuivering|drinkwater|afvalwater|membraantechnologie,periodegebonden|niet-periodegebonden,schriftelijk examen|openboekexamen|mondeling examen|werkstuk,schriftelijk examen|openboekexamen|mondeling examen|werkstuk,werkstuk
+
+BACH,IBBIORMT,3,J,I002447,6,Niko Verhoest|Jana Asselman|Lander Baeten|Marjan De Mey|Stefaan De Neve|Monica Höfte|Peter Ragaert,multidisciplinair literatuuronderzoek en praktijkstudie met kritische interpretatie|werk in groepsverband|technieken voor literatuurontsluiting|schriftelijk en mondeling rapporteren,periodegebonden|niet-periodegebonden,mondeling examen|werkstuk|peer-evaluatie,mondeling examen|werkstuk|peer-evaluatie,participatie
+
+MABA,IM6BCH,1,2,E640001,6,Ludo Poelaert,bedrijfseconomische analyse veiligheid kwaliteit productie en logistiek groeimanagement cv solliciteren marketing,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|mondeling examen,schriftelijk examen met open vragen|mondeling examen,werkstuk
+
+MABA,IM6BCH,1,2,I640001,6,Imca Sampers,immunologie|virologie|aangeboren immuunsysteem|verworven immuunsysteem|cellulair|humoraal|cellen van het immuunsysteem|dierlijke|plantaardige en bacteriële virussen,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|mondeling examen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen|mondeling examen,participatie|gedragsevaluatie op de werkvloer|verslag
+
+MABA,IM6BCH,1,2,I640004,6,Katleen Raes|Steven De Meester,bioreactoren - fermentatie - groeikinetiek - fermentor design - downstream processing,periodegebonden|niet-periodegebonden,schriftelijk examen|openboekexamen|mondeling examen,schriftelijk examen|openboekexamen|mondeling examen,participatie|gedragsevaluatie op de werkvloer|verslag
+
+MABA,IM6BCH,1,2,I640027,3,Katleen Raes,zuivelproducten|vlees- en visproducten|graanproducten,periodegebonden|niet-periodegebonden,schriftelijk examen|mondeling examen,schriftelijk examen|mondeling examen,peer-evaluatie|verslag
+
+MABA,IM6BCH,1,2,I640028,5,Imca Sampers|Steven De Meester,"eenheidsoperaties uitgevoerd in de voedingsindustrie bij koel-|vries-|kamer- en verhitte temperaturen, milieuduurzaamheid en levenscyclusanalyse",periodegebonden,schriftelijk examen met open vragen|openboekexamen|mondeling examen,schriftelijk examen met open vragen|openboekexamen|mondeling examen,participatie|verslag
+
+MABA,IM6BCH,1,2,I640029,4,Katleen Raes|Tom Desmet,biokatalyse|enzymtechnologie,periodegebonden,schriftelijk examen|mondeling examen,schriftelijk examen|mondeling examen,
+
+MABA,IM6BCH,1,J,I640026,21,,masterproef,periodegebonden|niet-periodegebonden,mondeling examen|werkstuk|verslag,mondeling examen|werkstuk|verslag,participatie|werkstuk|gedragsevaluatie op de werkvloer|verslag
+
+MABA,IM6CHE,1,2,E640001,6,Ludo Poelaert,bedrijfseconomische analyse veiligheid kwaliteit productie en logistiek groeimanagement cv solliciteren marketing,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|mondeling examen,schriftelijk examen met open vragen|mondeling examen,werkstuk
+
+MABA,IM6CHE,1,2,I630051,6,Katleen Raes,bioreactoren - fermentatie - groeikinetiek - fermentor design,periodegebonden|niet-periodegebonden,schriftelijk examen|openboekexamen|mondeling examen,schriftelijk examen|openboekexamen|mondeling examen,participatie|gedragsevaluatie op de werkvloer|verslag
+
+MABA,IM6CHE,1,2,I630053,4,Jos Knockaert|Steve Dereyne|Jan Desmet|Frederik Ronsse,duurzame energie|hernieuwbare energie|energieproductie|energieverbruik.,periodegebonden,schriftelijk examen,schriftelijk examen,werkstuk
+
+MABA,IM6CHE,1,2,I640030,3,Pascal Dejans|Yannick Verheust,galvanische corrosie|mechanismen|correctieve en preventieve maatregelen,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|mondeling examen,schriftelijk examen met open vragen|mondeling examen,gedragsevaluatie op de werkvloer|verslag
+
+MABA,IM6CHE,1,2,I640031,3,Jan Detand,composieten|vezelversterkte kunststoffen|verwerkingstechnieken|beproevingsmethoden|ontwerpmethodes en dimensionering,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|mondeling examen,schriftelijk examen met open vragen|mondeling examen,gedragsevaluatie op de werkvloer|verslag
+
+MABA,IM6CHE,1,2,I640034,9,Steven De Meester|Joël Hogie,extractie|destillatie|absorptie piloottesten processimulaties d.m.v. software,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|openboekexamen|mondeling examen,schriftelijk examen met open vragen|openboekexamen|mondeling examen,openboekexamen|gedragsevaluatie op de werkvloer|peer-evaluatie|verslag
+
+MABA,IM6CHE,1,J,I640026,21,,masterproef,periodegebonden|niet-periodegebonden,mondeling examen|werkstuk|verslag,mondeling examen|werkstuk|verslag,participatie|werkstuk|gedragsevaluatie op de werkvloer|verslag
+
+MABA,IM6MIL,1,2,E640001,6,Ludo Poelaert,bedrijfseconomische analyse veiligheid kwaliteit productie en logistiek groeimanagement cv solliciteren marketing,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|mondeling examen,schriftelijk examen met open vragen|mondeling examen,werkstuk
+
+MABA,IM6MIL,1,2,I630053,4,Jos Knockaert|Steve Dereyne|Jan Desmet|Frederik Ronsse,duurzame energie|hernieuwbare energie|energieproductie|energieverbruik.,periodegebonden,schriftelijk examen,schriftelijk examen,werkstuk
+
+MABA,IM6MIL,1,2,I640020,6,Stijn Van Hulle|Joël Hogie,biologische afvalwaterzuivering|ontwerp- en modelparameters|simuleren en optimaliseren,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|mondeling examen,schriftelijk examen met open vragen|mondeling examen,verslag
+
+MABA,IM6MIL,1,2,I640035,7,Diederik Rousseau,milieuproblematiek|projectwerk|rol- en taakverdeling|milieu-analyse,periodegebonden|niet-periodegebonden,mondeling examen|peer-evaluatie,mondeling examen,werkstuk|peer-evaluatie
+
+MABA,IM6MIL,1,2,I640063,7,Steven De Meester|Sophie Huysveld,milieuzorgsystemen|milieu-audit|emas|iso14001|life cycle assessment|labels|duurzaamheidsrapportering|milieueffectrapportering (mer)|duurzame productiesystemen|omgevingsvergunning,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|openboekexamen|mondeling examen,schriftelijk examen met open vragen|openboekexamen|mondeling examen,mondeling examen|verslag
+
+MABA,IM6MIL,1,J,I640026,21,,masterproef,periodegebonden|niet-periodegebonden,mondeling examen|werkstuk|verslag,mondeling examen|werkstuk|verslag,participatie|werkstuk|gedragsevaluatie op de werkvloer|verslag
+
+MABA,IM7BCH,1,1,I700163,6,Kris Audenaert|Maarten Ameye|Yves Briers|Philippe De Groote,multispectraal analyse|omics technieken|proefopzet|big data|flow cytometrie|phylogenie|histochemie,periodegebonden|niet-periodegebonden,schriftelijk examen,schriftelijk examen,mondeling examen|participatie|verslag
+
+MABA,IM7BCH,1,1,I700164,3,Leen De Gelder,biochemische technologie|bioreactoren|opzuiveringstechnieken,periodegebonden,schriftelijk examen,schriftelijk examen,participatie
+
+MABA,IM7BCH,1,1,I700165,5,Yves Briers,biochemie|enzymologie|biokatalyse|industrieel proces,niet-periodegebonden,,,mondeling examen|participatie|peer-evaluatie|verslag
+
+MABA,IM7BCH,1,1,I700181,3,Mia Eeckhout|Sergei Gusev|Pieter Vermeir,industriële meettechnieken|sensoren|procescontrole|biosensoren chromatografie|massa spectrometrie|monstervoorbereiding,periodegebonden|niet-periodegebonden,schriftelijk examen,schriftelijk examen,werkstuk
+
+MABA,IM7BCH,1,1,I700241,4,Jessika De Clippeleer|David Laureys,technologie van mouterij en brouwerij,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,participatie|gedragsevaluatie op de werkvloer|verslag
+
+MABA,IM7BCH,1,2,I700166,3,Yves Briers,biokatalyse|fermentatie|bio-gebaseerde producten|bio-economy|waardeketens|innovatief denken,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,participatie|peer-evaluatie|verslag
+
+MABA,IM7BCH,1,2,I700168,4,Leen De Gelder,milieubiotechnologie|milieumicrobiologie,periodegebonden|niet-periodegebonden,schriftelijk examen,schriftelijk examen,mondeling examen|participatie|werkstuk|peer-evaluatie|verslag
+
+MABA,IM7BCH,1,2,I700242,4,Philippe De Groote,gentechnologie|bedrijfspraktijken|biotechnologie,periodegebonden,schriftelijk examen,schriftelijk examen,participatie
+
+MABA,IM7BCH,1,J,I700243,3,Leen De Gelder,life sciences industrie|ingenieur in het werkveld|internationale dimensie,niet-periodegebonden,,,portfolio|participatie|verslag
+
+MABA,IM7BCH,1,J,I700244,20,Leen De Gelder,wetenschappelijke onderzoeksmethoden|wetenschappelijke literatuur|scriptie.,periodegebonden|niet-periodegebonden,mondeling examen|werkstuk,mondeling examen|werkstuk,participatie|gedragsevaluatie op de werkvloer
+
+MABA,IM7BWLPD,1,1,I700063,5,Veerle Fievez,voeding|veeteelt|dierenfysiologie|melkvee|voederevaluatiesystemen,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|mondeling examen,schriftelijk examen met open vragen|mondeling examen,schriftelijk examen met meerkeuzevragen|openboekexamen|participatie|werkstuk|peer-evaluatie
+
+MABA,IM7BWLPD,1,1,I700065,3,Joachim Schouteten,management|managementvaardigheden|business case,periodegebonden|niet-periodegebonden,schriftelijk examen,schriftelijk examen,werkstuk
+
+MABA,IM7BWLPD,1,1,I700067,3,Dirk Fremaut,voeding|varkens|toevoegmiddelen|rantsoenen,periodegebonden,mondeling examen,mondeling examen,
+
+MABA,IM7BWLPD,1,1,I700171,4,Geert Haesaert,landbouw – gewaskennis – teelttechniek,periodegebonden|niet-periodegebonden,mondeling examen,mondeling examen,schriftelijk examen|verslag
+
+MABA,IM7BWLPD,1,1,I700173,4,Dirk Fremaut,varkensteelt|bedrijfsbeheer en productiecontrole,periodegebonden,mondeling examen|verslag,mondeling examen|verslag,
+
+MABA,IM7BWLPD,1,2,I700049,3,Miel Hostens,- rundveeteelt - vlees en melk - bedrijfsbeheer en productiecontrole - dierenwelzijn en - gezondheid - sensortechnologie,periodegebonden,schriftelijk examen|verslag,schriftelijk examen|verslag,
+
+MABA,IM7BWLPD,1,J,I700180,4,Frank Nevens,landbouwbedrijf - bedrijfseconomische boekhouding - nutriëntenbalansen - teeltsystemen en gewasrottaties - biodiversiteit - milieuwetgevingen - kengetallen dierlijke en plantaardige productie - bedrijfsoptimalisatie,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,werkstuk|peer-evaluatie
+
+MABA,IM7BWLTB,1,1,I700065,3,Joachim Schouteten,management|managementvaardigheden|business case,periodegebonden|niet-periodegebonden,schriftelijk examen,schriftelijk examen,werkstuk
+
+MABA,IM7BWLTB,1,1,I700070,4,Marie-Christine Van Labeke,taxonomie| morfologie van planten|sierplantenteelt|openbaar groen|bedrijfsystemen,periodegebonden|niet-periodegebonden,schriftelijk examen|vaardigheidstest,schriftelijk examen,mondeling examen|verslag
+
+MABA,IM7BWLTB,1,1,I700073,6,Marie-Christine Van Labeke,tuinbouw - hormonale regeling - plantenteelt - fysiologie van vasculaire planten|ontwikkeling,periodegebonden|niet-periodegebonden,schriftelijk examen,schriftelijk examen,verslag
+
+MABA,IM7BWLTB,1,1,I700076,4,Filip Debersaques,nutriëntenbeheer,periodegebonden,schriftelijk examen met open vragen|verslag,schriftelijk examen met open vragen|verslag,
+
+MABA,IM7BWLTB,1,1,I700175,4,Geert Haesaert,gewasbeschermingsmiddelen|biologische-|fysische|fysiologische en ecologische bestrijdingstechnieken|resistetie|geïntegreerde gewasbescherming,periodegebonden|niet-periodegebonden,schriftelijk examen,schriftelijk examen,schriftelijk examen|verslag
+
+MABA,IM7BWLTB,1,2,I700174,3,Geert Haesaert,landbouw|genetica|selectiesystemen en -methoden|bloemmorfologie,periodegebonden|niet-periodegebonden,mondeling examen,mondeling examen,verslag
+
+MABA,IM7BWLTL,1,1,I700063,5,Veerle Fievez,voeding|veeteelt|dierenfysiologie|melkvee|voederevaluatiesystemen,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|mondeling examen,schriftelijk examen met open vragen|mondeling examen,schriftelijk examen met meerkeuzevragen|openboekexamen|participatie|werkstuk|peer-evaluatie
+
+MABA,IM7BWLTL,1,1,I700065,3,Joachim Schouteten,management|managementvaardigheden|business case,periodegebonden|niet-periodegebonden,schriftelijk examen,schriftelijk examen,werkstuk
+
+MABA,IM7BWLTL,1,1,I700077,3,Patrick Van Damme,plantenteeltsystemen - tropen - subtropen,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,werkstuk
+
+MABA,IM7BWLTL,1,1,I700079,3,Geert Baert,tropische bodems|classificatie|fysische en chemische karakterisatie|bodembeheer,periodegebonden,mondeling examen,mondeling examen,
+
+MABA,IM7BWLTL,1,1,I700171,4,Geert Haesaert,landbouw – gewaskennis – teelttechniek,periodegebonden|niet-periodegebonden,mondeling examen,mondeling examen,schriftelijk examen|verslag
+
+MABA,IM7BWLTL,1,1,I700173,4,Dirk Fremaut,varkensteelt|bedrijfsbeheer en productiecontrole,periodegebonden,mondeling examen|verslag,mondeling examen|verslag,
+
+MABA,IM7BWLTL,1,1,I700175,4,Geert Haesaert,gewasbeschermingsmiddelen|biologische-|fysische|fysiologische en ecologische bestrijdingstechnieken|resistetie|geïntegreerde gewasbescherming,periodegebonden|niet-periodegebonden,schriftelijk examen,schriftelijk examen,schriftelijk examen|verslag
+
+MABA,IM7BWLTL,1,2,I700049,3,Miel Hostens,- rundveeteelt - vlees en melk - bedrijfsbeheer en productiecontrole - dierenwelzijn en - gezondheid - sensortechnologie,periodegebonden,schriftelijk examen|verslag,schriftelijk examen|verslag,
+
+MABA,IM7BWLTL,1,2,I700156,3,Geert Haesaert|Stefaan Werbrouck,"vollegrondsgroenten - aardappel - teelttechniek,",periodegebonden|niet-periodegebonden,mondeling examen,mondeling examen,schriftelijk examen|verslag
+
+MABA,IM7BWLTL,1,2,I700174,3,Geert Haesaert,landbouw|genetica|selectiesystemen en -methoden|bloemmorfologie,periodegebonden|niet-periodegebonden,mondeling examen,mondeling examen,verslag
+
+MABA,IM7BWV,1,1,I700065,3,Joachim Schouteten,management|managementvaardigheden|business case,periodegebonden|niet-periodegebonden,schriftelijk examen,schriftelijk examen,werkstuk
+
+MABA,IM7BWV,1,1,I700082,4,Kathy Messens,enzymen|enzymkinetiek|enzyminhibitoren en -activatoren|biokatalyse|productie en toepassing van enzymen|enzymatische en biochemische analysetechnieken,periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,
+
+MABA,IM7BWV,1,1,I700083,6,Ingrid De Leyn,levensmiddelentechnologie|tarwe|bakwaarde|broodverbeteraars|biscuiterie|deegwaren|ontbijtgranen,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|mondeling examen,schriftelijk examen met open vragen|mondeling examen,participatie|verslag
+
+MABA,IM7BWV,1,1,I700157,4,Kathy Messens,analysetechnieken voor dna|rna en proteïnen|pcr en pcr afgeleide technieken|kwaliteitsaspecten|kwantitatieve moleculaire technieken|moleculaire merkers|genetische analysetechnieken|ggo's|pathogenen,periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,
+
+MABA,IM7BWV,1,1,I700181,3,Mia Eeckhout|Sergei Gusev|Pieter Vermeir,industriële meettechnieken|sensoren|procescontrole|biosensoren chromatografie|massa spectrometrie|monstervoorbereiding,periodegebonden|niet-periodegebonden,schriftelijk examen,schriftelijk examen,werkstuk
+
+MABA,IM7BWV,1,1,I700245,5,Liesbeth Jacxsens,gevarenidentificatie|gevarenanalyse|risicoevaluatie|risicomanagement|kritische punten|voedselveiligheid,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,participatie|werkstuk|gedragsevaluatie op de werkvloer
+
+MABA,IM7BWV,1,2,I700087,3,Ingrid De Leyn|Joachim Schouteten|Filip Van Bockstaele,reologie|textuur|sensoriek|levensmiddelenstructuur|viscositeit|elasticiteit,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen|mondeling examen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen|mondeling examen,verslag
+
+MABA,IM7BWV,1,2,I700158,6,Tony Ruyssen,melk|consumptiemelk|melkderivaten|gefermenteerde zuivelproducten|melkdesserten,periodegebonden|niet-periodegebonden,schriftelijk examen|mondeling examen,schriftelijk examen|mondeling examen,participatie|werkstuk|vaardigheidstest|peer-evaluatie|verslag
+
+MABA,IM7BWV,1,J,I700246,20,Mia Eeckhout,wetenschappelijke onderzoeksmethoden|wetenschappelijke literatuur|scriptie.,periodegebonden|niet-periodegebonden,mondeling examen|werkstuk,mondeling examen|werkstuk,participatie|gedragsevaluatie op de werkvloer
+
+MABA,IMAQUA,1,1,I001084,3,Frank Devlieghere|Lotta Kuuliala,"fish technology|fish processing, fish quality|spoilage|safety|preservation",periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,participatie|werkstuk
+
+MABA,IMAQUA,1,1,I002504,3,Wout Van Echelpoel,zoetwater|gemeenschappen|ecologische processen|exploitatie|verstoring|bescherming|rivieren|meren|poelen|wetlands,periodegebonden,schriftelijk examen,schriftelijk examen,
+
+MABA,IMAQUA,1,1,I002535,3,Colin Janssen,marine biotic and abiotic processes|marine ecosystems|blue growth|ocean threats,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,participatie
+
+MABA,IMAQUA,1,1,I002756,5,Aisling Daly,statistics|analysis of variance|regression analysis|statistical inference,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|openboekexamen,schriftelijk examen|openboekexamen,vaardigheidstest
+
+MABA,IMAQUA,1,1,I002787,4,Dominique Adriaens,fish biology (cartilaginous and bony fishes)|anatomy|growth|reproduction|ontogeny|adaptation|systematics|evolution,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|mondeling examen|vaardigheidstest,schriftelijk examen met open vragen|mondeling examen|vaardigheidstest,schriftelijk examen met open vragen|vaardigheidstest
+
+MABA,IMAQUA,1,1,I002788,6,Nancy Nevejan,trout|carp|tilapia|eel|catfish|polyculture|rizi-pisciculture|integrated fish culture|feeding level|productivity|specific growth rate|food conversion rate|recirculation system|cage culture|oxygenation|exploitation plan|artifical reproduction.,periodegebonden|niet-periodegebonden,schriftelijk examen,schriftelijk examen,participatie|verslag
+
+MABA,IMAQUA,1,1,I002789,4,Tom Defoirdt|Bart De Gusseme,microbiology|microbial ecology|wastewater treatment|recirculating aquaculture systems,periodegebonden|niet-periodegebonden,schriftelijk examen|openboekexamen,schriftelijk examen|openboekexamen,participatie|werkstuk|verslag
+
+MABA,IMAQUA,1,2,I000086,3,Peter Bossier|Olivier De Clerck,aquaculture|microalgae|macroalgae|seaweeds|culture techniques|applications.,periodegebonden|niet-periodegebonden,schriftelijk examen,schriftelijk examen,schriftelijk examen|participatie
+
+MABA,IMAQUA,1,2,I001579,3,Gudrun De Boeck,physiology|aquatic organisms|fish.,periodegebonden|niet-periodegebonden,schriftelijk examen|mondeling examen,schriftelijk examen|mondeling examen,participatie
+
+MABA,IMAQUA,1,2,I002790,5,Peter Bossier,management and zootechnical|economical and societal aspects of aquaculture implants|excursion.,periodegebonden|niet-periodegebonden,mondeling examen,mondeling examen,participatie|werkstuk|verslag
+
+MABA,IMAQUA,1,2,I002791,5,Nancy Nevejan,culture techniques|biology of shellfish|abalone|oyster|mussel|scallop|clam|penaeids|prawn|lobster|crayfish|crab.,periodegebonden|niet-periodegebonden,schriftelijk examen,schriftelijk examen,participatie
+
+MABA,IMAQUA,1,2,I002792,5,Peter Bossier|Farid Dahdouh-Guebas,aquaculture|ecosystem|mangrove|sustainability|algal blooms|ecological footprints.,periodegebonden|niet-periodegebonden,schriftelijk examen,schriftelijk examen,participatie|werkstuk|verslag
+
+MABA,IMAQUA,1,2,I002793,6,Gilbert Van Stappen,hatchery|live food|zooplankton|artemia|rotifers|fish larvae.,periodegebonden|niet-periodegebonden,schriftelijk examen,schriftelijk examen,participatie|verslag
+
+MABA,IMAQUA,1,2,I002794,5,Gilbert Van Stappen|Veerle Fievez,aquaculture|nutrition|food|feed.,periodegebonden|niet-periodegebonden,schriftelijk examen,schriftelijk examen,participatie|verslag
+
+MABA,IMAQUA,2,1,I002165,3,Peter Bossier|Margriet Drouillon,accounting|budgeting|financial management|economics|aquaculture farm.,periodegebonden|niet-periodegebonden,schriftelijk examen|openboekexamen,schriftelijk examen|openboekexamen,participatie
+
+MABA,IMAQUA,2,1,I002795,6,Peter Bossier,molecular genetic techniqus for detecting polymorphisms|qualitative and quantitative genetics|breeding programmes|chromosome manipulation|sex manipulation|polyploidisation|genetic maps.,periodegebonden|niet-periodegebonden,schriftelijk examen,schriftelijk examen,participatie|werkstuk|verslag
+
+MABA,IMAQUA,2,1,I002796,6,Peter Bossier|Annemie Decostere|Jeroen Dewulf|Katleen Hermans,"bacterial|parasitic and viral diseases|antibiotics|antibiotic resistance|identification and enumeration of micro-organisms|virulence|probiotics|immunostimulants|vaccination, handling & sampling techniques.",periodegebonden|niet-periodegebonden,schriftelijk examen,schriftelijk examen,participatie|verslag
+
+MABA,IMAQUA,2,J,I001507,30,,scientific research|research techniques|scientific reporting|written manuscript|oral presentation,periodegebonden|niet-periodegebonden,mondeling examen|werkstuk,mondeling examen|werkstuk,participatie
+
+
+MABA,IMBONA,1,1,I001946,3,Joris Van Acker,vellen en ruimen van bomen|mechanisatie|ergonomie|houtsortering|houthandel,periodegebonden,schriftelijk examen,schriftelijk examen,
+
+MABA,IMBONA,1,1,I002686,4,Joris Van Acker|Jan Van den Bulcke,celvormingsprocessen|cambiale activiteit|verkerning|kwalitatieve anatomie|houtsoorten,periodegebonden,schriftelijk examen met open vragen|mondeling examen,schriftelijk examen met open vragen|mondeling examen,
+
+MABA,IMBONA,1,1,I002689,5,Jan Van den Bulcke|Lander Baeten|Frieke Vancoillie|Hans Verbeeck,monitoring|inventarisatie|populaties|gemeenschappen|bestanden|biodiversiteit|dendrometrie|koolstof,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,participatie|werkstuk
+
+MABA,IMBONA,1,1,I002691,4,Lander Baeten,natuurbehoud|biodiversiteit|natuurbeheer|ecologisch herstel|natuurgebieden|ecosysteemfuncties|habitatverlies|vervuiling|invasieve soorten|klimaatverandering,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,participatie
+
+MABA,IMBONA,1,1,I002697,4,Jan Mertens,private en publieke groenaanleg|groenbeheer|natuurbeheer|stadsecologie,periodegebonden|niet-periodegebonden,mondeling examen,mondeling examen,verslag
+
+MABA,IMBONA,1,2,I002690,4,Joris Van Acker|Jan Van den Bulcke,hout als grondstof |houteigenschappen|houtkwaliteit,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|mondeling examen,schriftelijk examen met open vragen|mondeling examen,werkstuk|verslag
+
+MABA,IMBONA,1,2,I002696,4,Hans Verbeeck,vegetatiemodellen|ecological forecasting|opschaling,periodegebonden|niet-periodegebonden,mondeling examen,mondeling examen,vaardigheidstest
+
+MABA,IMBONA,1,J,I002687,4,Kris Verheyen,bosaanleg|bedrijfssoorten|bosbehandeling|boomsoorten,periodegebonden|niet-periodegebonden,mondeling examen,mondeling examen,verslag
+
+MABA,IMBONA,2,1,I002692,5,Myriam Dumortier,"bos- en natuurbeleid|beleidsinstrumenten|doelgroepenonderzoek|participatie, beleidsevaluatie",periodegebonden|niet-periodegebonden,mondeling examen,mondeling examen,participatie|werkstuk|simulatie
+
+MABA,IMBONA,2,2,I002693,5,Jos Van Orshoven|Sam Ottoy,bosbeheersplanning|natuurbeheersplanning|duurzaamheidsprincipe|planningstechniek|kapregeling|optimisatietechnieken,periodegebonden|niet-periodegebonden,openboekexamen|mondeling examen,openboekexamen|mondeling examen,verslag
+
+MABA,IMBONA,2,J,I001483,30,,wetenschappelijk onderzoek|onderzoekstechnieken|wetenschappelijk rapporteren|schriftelijk einddocument|mondeling presenteren,periodegebonden|niet-periodegebonden,mondeling examen|werkstuk,mondeling examen|werkstuk,participatie
+
+MABA,IMCHEM,1,1,I002612,5,Wim Soetaert,screening|growth kinetics|fermentors|bioreactors|aeration|substrates|genetics|mutations|recombination|enzyme technology|biocatalysis|bioconversion|bioreactors|solvents,periodegebonden,schriftelijk examen met open vragen|schriftelijk examen|mondeling examen,schriftelijk examen met open vragen|schriftelijk examen|mondeling examen,
+
+MABA,IMCHEM,1,1,I002618,5,Paul Van der Meeren|Jo Dewulf,eenheidsprocessen,periodegebonden,schriftelijk examen|openboekexamen,schriftelijk examen|openboekexamen,
+
+MABA,IMCHEM,1,1,I002668,3,Gijs Du Laing,analytische chemie|anorganische analyse|instrumentele methoden,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|schriftelijk examen|mondeling examen,schriftelijk examen met open vragen|schriftelijk examen|mondeling examen,schriftelijk examen met meerkeuzevragen|schriftelijk examen|participatie|verslag
+
+MABA,IMCHEM,1,1,I002675,4,Christian Stevens,nmr|ms|ir|uv,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|schriftelijk examen,schriftelijk examen met open vragen|schriftelijk examen|openboekexamen,schriftelijk examen met open vragen|openboekexamen
+
+MABA,IMCHEM,1,1,I002678,4,Christian Stevens|Matthias D'hooghe,bio-organische chemie|elektrofiele reacties|reactiviteit|selectiviteit|microreactor technologie.,periodegebonden,schriftelijk examen met open vragen|werkstuk,schriftelijk examen met open vragen,
+
+MABA,IMCHEM,1,1,I002679,4,Sven Mangelinckx,hernieuwbare grondstoffen|groene chemie|groene processen|niet-voedingstoepassingen,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,werkstuk
+
+MABA,IMCHEM,1,1,I002700,5,Sophie Huysveld,"clean technology|sustainable technology|industrial ecology|green chemistry|process integration, environmental performance tools, sustainability assessment|life cycle assessment|exergy|exergy analysis",periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|openboekexamen,schriftelijk examen met open vragen|openboekexamen,participatie|werkstuk
+
+MABA,IMCHEM,1,2,I002667,5,Paul Van der Meeren,colloïden|oppervlakken|dispersies|stabiliteit,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|openboekexamen|mondeling examen,schriftelijk examen met open vragen|openboekexamen|mondeling examen,verslag
+
+MABA,IMCHEM,1,2,I002672,5,Ingmar Nopens|Elena Torfs,procesregeling|regelarchitectuur|meet- en regeltechniek|automatisatie|stabiliteitsanalyse|klassieke controle|moderne controle,periodegebonden,openboekexamen,openboekexamen,werkstuk
+
+MABA,IMCHEM,1,2,I002677,4,Frederik Ronsse,biomassa|bioraffinaderij|thermochemische conversie|verbranding|vergassing|pyrolyse|warmte|electriciteit|bio-transportbrandstoffen,niet-periodegebonden,,,werkstuk|peer-evaluatie|verslag
+
+MABA,IMCHEM,1,2,I002680,5,Christian Stevens|Matthias D'hooghe|Sven Mangelinckx,organische chemie|synthese|analyse|structuurbepaling|duurzame chemie|laboratoriumexperimenten|veiligheid,niet-periodegebonden,,,gedragsevaluatie op de werkvloer|verslag
+
+MABA,IMCHEM,2,1,I002619,4,Jeroen Buysse,management|productiebeheer|kostenanalyse|rendabiliteit|organisatieplanning|financiële planning|risicomanagement|boekhouden|personeelsmanagement,periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,
+
+MABA,IMCHEM,2,2,I002652,5,Liesbeth Jacxsens|Stefaan De Smet|Pieter Spanoghe,"kwaliteit : kwaliteitsbeheer|kwaliteitszorgsystemen,  traceerbaarheid|documentbeheer|steekproeftechnieken|meet- en controletechnieken|risicoanalyse : blootstellingsberekening|risicobeheersing|risicoanalyse|inleiding tot reach|humane toxicologie|ecotoxicologie",periodegebonden|niet-periodegebonden,schriftelijk examen|openboekexamen,schriftelijk examen|openboekexamen,werkstuk|verslag
+
+MABA,IMCHEM,2,J,I001480,30,,wetenschappelijk onderzoek|onderzoekstechnieken|wetenschappelijk rapporteren|schriftelijk einddocument|mondeling presenteren,periodegebonden|niet-periodegebonden,mondeling examen|werkstuk,mondeling examen|werkstuk,participatie
+
+MABA,IMESTE,2,J,I001508,30,,scientific research|research techniques|scientific reporting|written manuscript|oral presentation,periodegebonden|niet-periodegebonden,mondeling examen|werkstuk,mondeling examen|werkstuk,participatie
+
+MABA,IMETEB,2,2,I001871,30,,wetenschappelijk onderzoek|onderzoekstechnieken|wetenschappelijk rapporteren|schriftelijk einddocument|mondeling presenteren,periodegebonden|niet-periodegebonden,mondeling examen|werkstuk,mondeling examen|werkstuk,participatie
+
+MABA,IMFOTE,1,1,I002756,5,Aisling Daly,statistics|analysis of variance|regression analysis|statistical inference,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|openboekexamen,schriftelijk examen|openboekexamen,vaardigheidstest
+
+MABA,IMFOTE,1,1,I002757,7,Bruno De Meulenaer,food|agricultural raw materials|chemical composition|properties|degradation reactions|nutritional value|food safety,periodegebonden|niet-periodegebonden,schriftelijk examen|openboekexamen|mondeling examen,schriftelijk examen|openboekexamen|mondeling examen,verslag
+
+MABA,IMFOTE,1,1,I002758,5,Wim Verbeke|Yung Hung,consumer|attitude|behaviour|food|marketing management|product|price|promotion|place,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,werkstuk
+
+MABA,IMFOTE,1,1,I002759,7,Andreja Rajkovic,food preservation|food contamination|micro-organisms|microbial food safety|hygiene|spoilage,periodegebonden|niet-periodegebonden,schriftelijk examen|openboekexamen,schriftelijk examen|openboekexamen,schriftelijk examen met open vragen|mondeling examen|verslag
+
+MABA,IMFOTE,1,1,I002760,7,Koen Dewettinck|Peter Ragaert,food|technology|unit operations|processing|quality|safety|shelf life|sensorial properties|nutritional value|packaging,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,participatie|werkstuk
+
+MABA,IMFOTE,1,2,I002201,5,Bart Nicolaï,plant physiology|plant biochemistry|postharvest,periodegebonden,mondeling examen,mondeling examen,
+
+MABA,IMFOTE,1,2,I002202,5,Wouter Saeys,food|postharvest|properties|thermodynamics|engineering,periodegebonden|niet-periodegebonden,mondeling examen,mondeling examen,mondeling examen|verslag
+
+MABA,IMFOTE,1,2,I002203,5,,nutrition|health|disease|world nutrition situation,periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen|werkstuk,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen|werkstuk,
+
+MABA,IMFOTE,1,2,I002204,8,Ann Van Loey,--,periodegebonden,schriftelijk examen|mondeling examen,schriftelijk examen|mondeling examen,
+
+MABA,IMFOTE,1,2,I002205,7,Paula Moldenaers,heat transfer|momentum transport|mass transport|reaction kinetics|reactor design,periodegebonden,mondeling examen,mondeling examen,
+
+MABA,IMFOTE,2,J,I001506,30,,scientific research|research techniques|scientific reporting|written manuscript|oral presentation,periodegebonden|niet-periodegebonden,mondeling examen|werkstuk,mondeling examen|werkstuk,participatie
+
+MABA,IMLAND,1,1,I002644,4,Veerle Fievez,verterings-|reproductie-|groei- en lactatiefysiologie,periodegebonden,schriftelijk examen met open vragen|mondeling examen,schriftelijk examen met open vragen|mondeling examen,
+
+MABA,IMLAND,1,1,I002645,6,Luc Tirry|Benny De Cauwer|Monica Höfte,identificatie|diagnose|gewasbescherming|nematologie|entomologie|fytopathologie|plantenziekten|dierlijke plantenbeschadigers|plaagbeheersing|onkruiden|onkruidbiologie,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|openboekexamen,schriftelijk examen met open vragen|openboekexamen,openboekexamen|werkstuk
+
+MABA,IMLAND,1,1,I002647,5,Benny De Cauwer|Dirk Reheul|Patrick Van Damme|Marie-Christine Van Labeke,grasland|grasvelden|suikerbiet|tomaat|azalea|rijst|banaan,periodegebonden,,,
+
+MABA,IMLAND,1,1,I002649,5,Godelieve Gheysen,dna-|rna- en protein-analysetechnieken|pcr en toepassingen|moleculaire merkers|genisolatie|gen- en genoomanalyse|plantentransformatie|gmo-gewassen,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|mondeling examen,schriftelijk examen met open vragen|mondeling examen,participatie|werkstuk|peer-evaluatie|verslag
+
+MABA,IMLAND,1,1,I002651,5,Wouter Maes|Nympha De Neve,gps|plantsensoren|uav|beeldverwerking|thermaal|veeteelt,periodegebonden|niet-periodegebonden,schriftelijk examen,schriftelijk examen,werkstuk|verslag
+
+MABA,IMLAND,1,2,I001280,3,Stijn Luca|Karel Vermeulen,statistics|experimental design|sampling|sample size calculation|optimal experimental design|factorial designs|response surface design|split-plot design.,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,werkstuk
+
+MABA,IMLAND,1,2,I002643,5,Jan Pieters,land- en tuinbouwbedrijfsgebouwen|bouw|energieverbruik|inrichting|klimaatbeheersing|milieueffecten,periodegebonden|niet-periodegebonden,schriftelijk examen|mondeling examen,schriftelijk examen|mondeling examen,verslag
+
+MABA,IMLAND,1,2,I002646,5,Stefaan De Neve|Steven Sleutel,aanbodsessie a: bodem|nutriëntenkringlopen|organische stof|klimaatsproblematiek. aanbodsessie a + b: exogeen organisch materiaal|nutriëntenstatus|bemestingsadviessystemen|nutriëntencyclus in bosecosystemen|milieu-impacten|nutriëntenwetgeving,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,verslag
+
+MABA,IMLAND,2,1,I002648,5,John Van Camp,vertering|metabolisme|nutriënten|voeding van de mens,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,mondeling examen|werkstuk|verslag
+
+MABA,IMLAND,2,1,I002650,5,Jeroen Buysse,landbouwbeleid|handel|welvaartstheorie|wto (wereldhandelsorganisatie)|eu,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,participatie|werkstuk
+
+MABA,IMLAND,2,2,I002652,5,Liesbeth Jacxsens|Stefaan De Smet|Pieter Spanoghe,"kwaliteit : kwaliteitsbeheer|kwaliteitszorgsystemen,  traceerbaarheid|documentbeheer|steekproeftechnieken|meet- en controletechnieken|risicoanalyse : blootstellingsberekening|risicobeheersing|risicoanalyse|inleiding tot reach|humane toxicologie|ecotoxicologie",periodegebonden|niet-periodegebonden,schriftelijk examen|openboekexamen,schriftelijk examen|openboekexamen,werkstuk|verslag
+
+MABA,IMLAND,2,2,I002653,5,Veerle Fievez|Joris Michiels,ruminant nutrition|pig nutrition|feed evaluation|requirements|diet formulation,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|mondeling examen,schriftelijk examen met open vragen|mondeling examen,mondeling examen|participatie|verslag
+
+MABA,IMLAND,2,J,I001481,30,,wetenschappelijk onderzoek|onderzoekstechnieken|wetenschappelijk rapporteren|schriftelijk einddocument|mondeling presenteren,periodegebonden|niet-periodegebonden,mondeling examen|werkstuk,mondeling examen|werkstuk,participatie
+
+MABA,IMLAND,2,J,I002654,5,Stefaan De Smet|Jeroen Buysse|Patrick De Clercq,landbouwsystemen|innovatie|duurzaamheid|stakeholders,periodegebonden|niet-periodegebonden,mondeling examen|peer-evaluatie|verslag,mondeling examen|verslag,participatie|verslag
+
+MABA,IMLAWA,1,1,I002655,5,Hans Verbeeck,weersfenomenen|globale circulatie|weerstations|weersmodellen|klimaattypes|bioklimatologie|microklimaat|vegetatiemodellen,periodegebonden|niet-periodegebonden,mondeling examen,mondeling examen,peer-evaluatie|verslag
+
+MABA,IMLAWA,1,1,I002657,5,Wim Cornelis,soil-water content|soil-water potential|soil-water retention|flow of water and chemicals in soils|soil structure,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,participatie|verslag
+
+MABA,IMLAWA,1,1,I002659,4,Niko Verhoest,hydrologische modellen|kalibratie|onzekerheid|model updaten,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|mondeling examen,schriftelijk examen met open vragen|mondeling examen,werkstuk|verslag
+
+MABA,IMLAWA,1,1,I002661,4,Niko Verhoest,stroming in rivieren,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|mondeling examen,schriftelijk examen met open vragen|mondeling examen,verslag
+
+MABA,IMLAWA,1,1,I002664,4,Ann Verdoodt,watererosie|neerslagerosiviteit|bodemerodibiliteit|topografie|landgebruik en -bedekking|ecosysteemdienst|bio-ingenieursstrategieën|erosierisico|erosiecontrole|introductie tot winderosie,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,werkstuk|vaardigheidstest|peer-evaluatie|verslag
+
+MABA,IMLAWA,1,2,I002646,5,Stefaan De Neve|Steven Sleutel,aanbodsessie a: bodem|nutriëntenkringlopen|organische stof|klimaatsproblematiek. aanbodsessie a + b: exogeen organisch materiaal|nutriëntenstatus|bemestingsadviessystemen|nutriëntencyclus in bosecosystemen|milieu-impacten|nutriëntenwetgeving,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,verslag
+
+MABA,IMLAWA,1,2,I002656,5,Diego Miralles|Steven Sleutel,klimaatverandering|broeikasgassen|landbedekking|klimaat terugkoppelingen|klimaatextremen|klimaatmodellen,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,peer-evaluatie|verslag
+
+MABA,IMLAWA,1,2,I002658,4,Philippe De Smedt|Abdul Mouazen,bodemonderzoek|bodemkartering|bodemsensoren|toegepaste geofysica van de ondiepe ondergrond|geochemische prospectie,periodegebonden,schriftelijk examen,schriftelijk examen,
+
+MABA,IMLAWA,1,2,I002660,3,Niko Verhoest,grondwaterstroming|numerieke technieken|grondwatermodellering,periodegebonden,schriftelijk examen met open vragen|vaardigheidstest,schriftelijk examen met open vragen|vaardigheidstest,verslag
+
+MABA,IMLAWA,1,2,I002698,4,Wout Van Echelpoel,"componenten en processen binnen aquatische ecosystemen|monitoring van oppervlaktewateren|normen|ecologische beoordeling|beheersobjectieven|beheersmaatregelen|duurzaam waterbeheer,",periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,werkstuk|verslag
+
+MABA,IMLAWA,1,2,I002699,5,Ann Verdoodt,land capability|land suitability|ecosystem services|crop growth modelling|soil quality,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,mondeling examen|werkstuk|vaardigheidstest|peer-evaluatie|verslag
+
+MABA,IMLAWA,2,1,I002662,5,Ellen Van De Vijver,bodem|grondwater|kartering|staalname|beheer|sanering|zuivering|fysisch-chemisch|biologisch|duurzaamheid,periodegebonden,schriftelijk examen,schriftelijk examen,
+
+MABA,IMLAWA,2,J,I001478,30,,wetenschappelijk onderzoek|onderzoekstechnieken|wetenschappelijk rapporteren|schriftelijk einddocument|mondeling presenteren,periodegebonden|niet-periodegebonden,mondeling examen|werkstuk,mondeling examen|werkstuk,participatie
+
+MABA,IMLEMI,1,1,I002618,5,Paul Van der Meeren|Jo Dewulf,eenheidsprocessen,periodegebonden,schriftelijk examen|openboekexamen,schriftelijk examen|openboekexamen,
+
+MABA,IMLEMI,1,1,I002648,5,John Van Camp,vertering|metabolisme|nutriënten|voeding van de mens,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,mondeling examen|werkstuk|verslag
+
+MABA,IMLEMI,1,1,I002668,3,Gijs Du Laing,analytische chemie|anorganische analyse|instrumentele methoden,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|schriftelijk examen|mondeling examen,schriftelijk examen met open vragen|schriftelijk examen|mondeling examen,schriftelijk examen met meerkeuzevragen|schriftelijk examen|participatie|verslag
+
+MABA,IMLEMI,1,1,I002669,5,Koen Dewettinck,food|technology|unit operations|processing|quality|safety|shelf life|sensorial properties|nutritional value|packaging,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen|mondeling examen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen|mondeling examen,participatie|werkstuk
+
+MABA,IMLEMI,1,1,I002670,5,Bruno De Meulenaer|Kathy Messens|Andreja Rajkovic|Mieke Uyttendaele,pcr|sequentie-analyse|omics|chromatografie|celculturen|cytotoxiciteit|extractietechnieken|detectie|methodenvalidatie|dna|rna|eiwitten|biomarkers|ggos|pathogenen|virulentiegenen|toxines,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|mondeling examen,schriftelijk examen met open vragen|mondeling examen,participatie|werkstuk|verslag
+
+MABA,IMLEMI,1,2,I002652,5,Liesbeth Jacxsens|Stefaan De Smet|Pieter Spanoghe,"kwaliteit : kwaliteitsbeheer|kwaliteitszorgsystemen,  traceerbaarheid|documentbeheer|steekproeftechnieken|meet- en controletechnieken|risicoanalyse : blootstellingsberekening|risicobeheersing|risicoanalyse|inleiding tot reach|humane toxicologie|ecotoxicologie",periodegebonden|niet-periodegebonden,schriftelijk examen|openboekexamen,schriftelijk examen|openboekexamen,werkstuk|verslag
+
+MABA,IMLEMI,1,2,I002667,5,Paul Van der Meeren,colloïden|oppervlakken|dispersies|stabiliteit,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|openboekexamen|mondeling examen,schriftelijk examen met open vragen|openboekexamen|mondeling examen,verslag
+
+MABA,IMLEMI,1,2,I002672,5,Ingmar Nopens|Elena Torfs,procesregeling|regelarchitectuur|meet- en regeltechniek|automatisatie|stabiliteitsanalyse|klassieke controle|moderne controle,periodegebonden,openboekexamen,openboekexamen,werkstuk
+
+MABA,IMLEMI,1,2,I002673,5,Peter Ragaert,packaging engineering|sealing technology|active and intelligent packaging|bioplastics|circular packaging,periodegebonden|niet-periodegebonden,mondeling examen,mondeling examen,mondeling examen|werkstuk
+
+MABA,IMLEMI,1,2,I002720,5,Wim Verbeke|Xavier Gellynck,consument|attitude|gedrag|perceptie|marketing|marketing mix|communicatie|business-to- business,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,werkstuk
+
+MABA,IMLEMI,1,2,I002721,4,Liesbeth Jacxsens|Johan Hallaert,food legislation|european food legislation|codex alimentarius|risk management,periodegebonden|niet-periodegebonden,mondeling examen,mondeling examen,participatie|verslag
+
+MABA,IMLEMI,2,1,I002619,4,Jeroen Buysse,management|productiebeheer|kostenanalyse|rendabiliteit|organisatieplanning|financiële planning|risicomanagement|boekhouden|personeelsmanagement,periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,
+
+MABA,IMLEMI,2,2,I002717,5,John Van Camp,human nutrition and health|food science|functional foods,periodegebonden|niet-periodegebonden,schriftelijk examen|openboekexamen|mondeling examen,schriftelijk examen|openboekexamen|mondeling examen,werkstuk
+
+MABA,IMLEMI,2,J,I001482,30,,wetenschappelijk onderzoek|onderzoekstechnieken|wetenschappelijk rapporteren|schriftelijk einddocument|mondeling presenteren,periodegebonden|niet-periodegebonden,mondeling examen|werkstuk,mondeling examen|werkstuk,participatie
+
+MABA,IMLEMI,2,J,I002674,7,Mieke Uyttendaele,"productontwikkeling, levensmiddelentechnologie|levensmiddelenchemie|levensmiddelenmicrobiologie|consumentengedrag|marketing|bedrijfsbeheer|kwaliteitszorg|voedselveiligheid|nutritionele aspecten voeding|etikettering|verpakkingstechnologie|duurzaamheid",periodegebonden|niet-periodegebonden,mondeling examen|peer-evaluatie,mondeling examen,participatie|werkstuk|verslag
+
+MABA,IMMITE,2,J,I001479,30,,wetenschappelijk onderzoek|onderzoekstechnieken|wetenschappelijk rapporteren|schriftelijk einddocument|mondeling presenteren,periodegebonden|niet-periodegebonden,mondeling examen|werkstuk,mondeling examen|werkstuk,participatie
+
+MABA,IMNURD,1,1,I002727,5,Patrick Kolsteren|Bruno Lapauw,undernutrition|micro-nutrient deficiencies|macro-nutrient deficiencies|diet related chronic diseases- population/individual level,periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,
+
+MABA,IMNURD,1,1,I002756,5,Aisling Daly,statistics|analysis of variance|regression analysis|statistical inference,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|openboekexamen,schriftelijk examen|openboekexamen,vaardigheidstest
+
+MABA,IMNURD,1,1,I002777,5,John Van Camp,digestion|metabolism|nutrients|human nutrition,periodegebonden|niet-periodegebonden,schriftelijk examen|mondeling examen|werkstuk,schriftelijk examen|mondeling examen|werkstuk,werkstuk
+
+MABA,IMNURD,1,1,I002779,5,Marijke D'Haese,ontwikkelingseconomie|ontwikkelingslanden|economische groei|globale zuiden,periodegebonden,schriftelijk examen,schriftelijk examen,
+
+MABA,IMNURD,1,1,I002780,5,Bruno De Meulenaer,food|agricultural raw materials|chemical composition|properties|degradation reactions|nutritional value|food safety,periodegebonden|niet-periodegebonden,schriftelijk examen|mondeling examen,schriftelijk examen|mondeling examen,verslag
+
+MABA,IMNURD,1,1,I002781,5,Patrick Van Damme|Marleen Claes|Gilbert Van Stappen,tropics|production|meat|fish|cash crops|food crops,periodegebonden|niet-periodegebonden,schriftelijk examen,schriftelijk examen,verslag
+
+MABA,IMNURD,1,2,I001891,3,Patrick Kolsteren,wetenschappelijke literatuur|artikel|presentatie|vaardigheden|verwijzingen,niet-periodegebonden,,,participatie|werkstuk|vaardigheidstest|verslag
+
+MABA,IMNURD,1,2,I002717,5,John Van Camp,human nutrition and health|food science|functional foods,periodegebonden|niet-periodegebonden,schriftelijk examen|openboekexamen|mondeling examen,schriftelijk examen|openboekexamen|mondeling examen,werkstuk
+
+MABA,IMNURD,1,2,I002730,5,Patrick Kolsteren|Carl Lachat,epidemiology|food intake|food safety surveillance|evidence base,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,
+
+MABA,IMNURD,1,2,I002782,7,Carl Lachat|Patrick Kolsteren,planning|food and nutritional interventions|participatory evaluation|project design,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,participatie|werkstuk|peer-evaluatie
+
+MABA,IMNURD,1,2,I002783,5,Koen Dewettinck|Monica Höfte|Lotta Kuuliala,postharvest pests and diseases|food preservation|food processing,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,participatie|verslag
+
+MABA,IMNURD,2,1,I002784,5,Joost Dessein|Yung Hung|Carl Lachat,governance of food systems|food policy|nutrition policy|food justice,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|werkstuk,schriftelijk examen met open vragen|werkstuk,mondeling examen|participatie|werkstuk
+
+MABA,IMNURD,2,2,I002765,5,Marijke D'Haese|Joost Dessein,food systems|sustainability|food environment|food security|food democracy|food sovereignty,periodegebonden|niet-periodegebonden,schriftelijk examen,schriftelijk examen,werkstuk
+
+MABA,IMNURD,2,J,I001509,30,,scientific research|research techniques|scientific reporting|written manuscript|oral presentation,periodegebonden|niet-periodegebonden,mondeling examen|werkstuk,mondeling examen|werkstuk,participatie
+
+MABA,IMPLRSLR,1,1,I001549,5,Aisling Daly,statistics|analysis of variance|regression analysis|statistical inference,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|openboekexamen,schriftelijk examen met open vragen|openboekexamen,vaardigheidstest
+
+MABA,IMPLRSLR,1,1,I001550,5,Wim Cornelis,soil-water content|soil-water potential|soil-water retention|flow of water and chemicals in soils|soil structure,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,participatie|vaardigheidstest|verslag
+
+MABA,IMPLRSLR,1,1,I001553,5,Ann Verdoodt,georeferenced information|natural resources|gis|thematic maps|spatial analysis|cartographic modeling|qgis,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,schriftelijk examen met open vragen|participatie|vaardigheidstest
+
+MABA,IMPLRSLR,1,1,I001587,5,Filip Tack,bodem|scheikunde|pedologie|dynamiek van elementen,periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,verslag
+
+MABA,IMPLRSLR,1,2,C003320,4,Dirk Verschuren|Pascal Boeckx|Dries Bonte|Diego Miralles|Roberto Salomon Moreno|Kathy Luis Steppe|Hans Verbeeck,klimaatverandering|broeikaseffect|klimaatopwarming|co2 emissies|biosfeer impacts|koolstofcyclus|klimaatprognose|ipcc|adaptatie|mitigatie|duurzame ontwikkeling,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,mondeling examen|werkstuk
+
+MABA,IMPLRSLR,1,2,I001513,5,Wim Cornelis,soil-hydrological processes|soil hydraulic properties|water conservation|water harvesting|water balance|sustainability|water productivity|rainfed,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,participatie|werkstuk
+
+MABA,IMPLRSLR,1,J,I001581,5,Peter Finke,soils|soil characteristics|soil processes|soil reactions|environment|plant growth|ecosystem|soilscape,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,gedragsevaluatie op de werkvloer|verslag
+
+MABA,IMPLRSSO,1,1,I001549,5,Aisling Daly,statistics|analysis of variance|regression analysis|statistical inference,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|openboekexamen,schriftelijk examen met open vragen|openboekexamen,vaardigheidstest
+
+MABA,IMPLRSSO,1,1,I001550,5,Wim Cornelis,soil-water content|soil-water potential|soil-water retention|flow of water and chemicals in soils|soil structure,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,participatie|vaardigheidstest|verslag
+
+MABA,IMPLRSSO,1,1,I001553,5,Ann Verdoodt,georeferenced information|natural resources|gis|thematic maps|spatial analysis|cartographic modeling|qgis,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,schriftelijk examen met open vragen|participatie|vaardigheidstest
+
+MABA,IMPLRSSO,1,1,I001587,5,Filip Tack,bodem|scheikunde|pedologie|dynamiek van elementen,periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,verslag
+
+MABA,IMPLRSSO,1,2,C003320,4,Dirk Verschuren|Pascal Boeckx|Dries Bonte|Diego Miralles|Roberto Salomon Moreno|Kathy Luis Steppe|Hans Verbeeck,klimaatverandering|broeikaseffect|klimaatopwarming|co2 emissies|biosfeer impacts|koolstofcyclus|klimaatprognose|ipcc|adaptatie|mitigatie|duurzame ontwikkeling,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,mondeling examen|werkstuk
+
+MABA,IMPLRSSO,1,2,I001513,5,Wim Cornelis,soil-hydrological processes|soil hydraulic properties|water conservation|water harvesting|water balance|sustainability|water productivity|rainfed,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,participatie|werkstuk
+
+MABA,IMPLRSSO,1,J,I001581,5,Peter Finke,soils|soil characteristics|soil processes|soil reactions|environment|plant growth|ecosystem|soilscape,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,gedragsevaluatie op de werkvloer|verslag
+
+MABA,IMRDVC,2,2,I002842,6,,,,,,
+
+MABA,IMRDVC,2,2,I002843,4,,,,,,
+
+MABA,IMRDVC,2,2,I002844,20,,,,,,
+
+MABA,IMRDVC,2,J,I001510,30,,wetenschappelijk onderzoek|onderzoekstechnieken|wetenschappelijk rapporteren|schriftelijk einddocument|mondeling presenteren,periodegebonden,mondeling examen|werkstuk,mondeling examen|werkstuk,participatie
+
+MABA,IMRDVC,2,N,I001739,10,Francesco Di Iacovo,rural development|practical training,periodegebonden|niet-periodegebonden,mondeling examen|verslag,mondeling examen|verslag,participatie
+
+MABA,IMRDVC,2,N,I001740,10,Anne Bandlerova,rural development|practical training,periodegebonden|niet-periodegebonden,mondeling examen|verslag,mondeling examen|verslag,participatie
+
+MABA,IMRDVC,2,N,I002564,10,,,,,,
+
+MABA,IMRDVC,2,N,I002828,10,,rural development|practical training,periodegebonden|niet-periodegebonden,mondeling examen|verslag,mondeling examen|verslag,participatie
+
+MABA,IMSINR,2,J,I002199,30,,wetenschappelijk onderzoek|onderzoekstechnieken|wetenschappelijk rapporteren|schriftelijk einddocument|mondeling presenteren,periodegebonden,mondeling examen|werkstuk,mondeling examen|werkstuk,participatie
+
+MABA,IMSINR,2,J,I002410,10,,,periodegebonden|niet-periodegebonden,gedragsevaluatie op de werkvloer|verslag,gedragsevaluatie op de werkvloer|verslag,gedragsevaluatie op de werkvloer|verslag
+
+MABA,IMSOGLPL,1,1,I002657,5,Wim Cornelis,soil-water content|soil-water potential|soil-water retention|flow of water and chemicals in soils|soil structure,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,participatie|verslag
+
+MABA,IMSOGLPL,1,1,I002711,5,Peter Finke,soil formation|soil processes|soil evolution|formation of diagnostic horizons and materials,periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,
+
+MABA,IMSOGLPL,1,1,I002756,5,Aisling Daly,statistics|analysis of variance|regression analysis|statistical inference,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|openboekexamen,schriftelijk examen|openboekexamen,vaardigheidstest
+
+MABA,IMSOGLPL,1,1,I002773,5,Filip Tack,bodem|scheikunde|pedologie|dynamiek van elementen,periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,verslag
+
+MABA,IMSOGLPL,1,1,I002774,5,Ann Verdoodt|Stefaan Dondeyne|Steven Sleutel,georeferenced information|natural resources|gis|thematic maps|spatial analysis|cartographic modeling|qgis,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,schriftelijk examen met open vragen|participatie|werkstuk|vaardigheidstest
+
+MABA,IMSOGLPL,1,1,I002775,5,Peter Finke,soils|soil characteristics|soil processes|soil reactions|environment|plant growth|ecosystem|soilscape,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,gedragsevaluatie op de werkvloer|verslag
+
+MABA,IMSOGLSB,1,1,I002657,5,Wim Cornelis,soil-water content|soil-water potential|soil-water retention|flow of water and chemicals in soils|soil structure,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,participatie|verslag
+
+MABA,IMSOGLSB,1,1,I002711,5,Peter Finke,soil formation|soil processes|soil evolution|formation of diagnostic horizons and materials,periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,
+
+MABA,IMSOGLSB,1,1,I002756,5,Aisling Daly,statistics|analysis of variance|regression analysis|statistical inference,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|openboekexamen,schriftelijk examen|openboekexamen,vaardigheidstest
+
+MABA,IMSOGLSB,1,1,I002773,5,Filip Tack,bodem|scheikunde|pedologie|dynamiek van elementen,periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,verslag
+
+MABA,IMSOGLSB,1,1,I002774,5,Ann Verdoodt|Stefaan Dondeyne|Steven Sleutel,georeferenced information|natural resources|gis|thematic maps|spatial analysis|cartographic modeling|qgis,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen,schriftelijk examen met open vragen,schriftelijk examen met open vragen|participatie|werkstuk|vaardigheidstest
+
+MABA,IMSOGLSB,1,1,I002775,5,Peter Finke,soils|soil characteristics|soil processes|soil reactions|environment|plant growth|ecosystem|soilscape,periodegebonden|niet-periodegebonden,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,schriftelijk examen met open vragen|schriftelijk examen met meerkeuzevragen,gedragsevaluatie op de werkvloer|verslag
+
